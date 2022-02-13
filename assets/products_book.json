@@ -1,0 +1,206 @@
+{
+  "paywall": {
+    "description": "description",
+    "products": [
+      {
+        "id": "master",
+        "title": "master header!",
+        "label": {
+          "text": "Premium",
+          "color": "#8F38A7"
+        },
+        "icons": [
+          {
+            "label": "books",
+            "url": "https://a.bmstatic.com/iu/ic-subs-books-2dce6f8816080b1a4626099d29337ce8.png"
+          },
+          {
+            "label": "comicbooks",
+            "url": "https://a.bmstatic.com/iu/ic-subs-comics-67d5ff78650e8d672cda888fd2d25513.png"
+          },
+          {
+            "label": "audiobooks",
+            "url": "https://a.bmstatic.com/iu/ic-subs-audio-e009bea5d93ce20b099b95fd8247e1e1.png"
+          },
+          {
+            "label": "podcasts",
+            "url": "https://a.bmstatic.com/iu/ic-subs-podcasts-6d6df2803a2717ec9c885ac4c01e89a0.png"
+          }
+        ],
+        "description": "Access to all books, comicbooks, audiobooks",
+        "trial": true,
+        "discount_percent": null,
+        "price_comment": null,
+        "price": 49900,
+        "currency": "RUB",
+        "duration": "1_month",
+        "buttons": [
+          {
+            "text": "7 days for free",
+            "text_color": "#FFFFFF",
+            "background_color": "#4CD180",
+            "comment": "After that - 499 ₽ per month",
+            "comment_color": "#EEEEEE",
+            "plans": [
+              {
+                "id": "stripe_1_month_master_trial_ru_231118",
+                "system": "cards",
+                "duration": "1_month",
+                "trial": true,
+                "prepay_text": "__need_text__",
+                "price": 49900,
+                "currency": "RUB",
+                "discount_percent": null,
+                "kind": "master",
+                "analytics": {
+                  "control": "subscribe_master_1_month",
+                  "object_type": "subscription",
+                  "object_id": "trial_cards",
+                  "process_data": {
+                    "sub_type": "master",
+                    "duration": "1_month",
+                    "payment_method": "trial_cards",
+                    "plan_id": "stripe_1_month_master_trial_ru_231118"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "premium",
+        "title": "premium header!",
+        "label": {
+          "text": "Books",
+          "color": "#4264FD"
+        },
+        "icons": [
+          {
+            "label": "books",
+            "url": "https://a.bmstatic.com/iu/ic-subs-books-2dce6f8816080b1a4626099d29337ce8.png"
+          },
+          {
+            "label": "comicbooks",
+            "url": "https://a.bmstatic.com/iu/ic-subs-comics-67d5ff78650e8d672cda888fd2d25513.png"
+          }
+        ],
+        "description": "Access to all books, comicbooks",
+        "trial": false,
+        "discount_percent": 7,
+        "price_comment": "При оплате за год",
+        "price": 37400,
+        "currency": "RUB",
+        "duration": "1_month",
+        "buttons": [
+          {
+            "text": "1 month - 399 ₽",
+            "text_color": "#FFFFFF",
+            "background_color": "#426BF2",
+            "comment": "",
+            "comment_color": "#EEEEEE",
+            "plans": [
+              {
+                "id": "stripe_1_month_premium_ru3",
+                "system": "cards",
+                "duration": "1_month",
+                "trial": false,
+                "prepay_text": "You’re planning to pay for a Books subscription for 1 month, costing 399 ₽.<br>After your subscription ends, it will be automatically extended.",
+                "price": 39900,
+                "currency": "RUB",
+                "discount_percent": null,
+                "kind": "premium",
+                "analytics": {
+                  "control": "subscribe_premium_1_month",
+                  "object_type": "subscription",
+                  "object_id": "cards",
+                  "process_data": {
+                    "sub_type": "premium",
+                    "duration": "1_month",
+                    "payment_method": "cards",
+                    "plan_id": "stripe_1_month_premium_ru3"
+                  }
+                }
+              },
+              {
+                "id": "bookmate_1month_books_premium_160318",
+                "system": "google_play",
+                "duration": "1_month",
+                "trial": false,
+                "prepay_text": null,
+                "price": 39900,
+                "currency": "RUB",
+                "discount_percent": null,
+                "kind": "premium",
+                "analytics": {
+                  "control": "subscribe_premium_1_month",
+                  "object_type": "subscription",
+                  "object_id": "google_play",
+                  "process_data": {
+                    "sub_type": "premium",
+                    "duration": "1_month",
+                    "payment_method": "google_play",
+                    "plan_id": "bookmate_1month_books_premium_160318"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "text": "1 year - 4490 ₽",
+            "text_color": "#5384F5",
+            "background_color": "#ECF0FE",
+            "comment": "",
+            "comment_color": "#EEEEEE",
+            "plans": [
+              {
+                "id": "stripe_1_year_premium_ru_20170810",
+                "system": "cards",
+                "duration": "1_year",
+                "trial": false,
+                "prepay_text": "You’re planning to pay for a Books subscription for 1 year, costing 4490 ₽.<br>After your subscription ends, it will be automatically extended.",
+                "price": 449000,
+                "currency": "RUB",
+                "discount_percent": 7,
+                "kind": "premium",
+                "analytics": {
+                  "control": "subscribe_premium_1_year",
+                  "object_type": "subscription",
+                  "object_id": "cards",
+                  "process_data": {
+                    "sub_type": "premium",
+                    "duration": "1_year",
+                    "payment_method": "cards",
+                    "plan_id": "stripe_1_year_premium_ru_20170810"
+                  }
+                }
+              },
+              {
+                "id": "bookmate_reader_1year_books_premium_recurrent_171017",
+                "system": "google_play",
+                "duration": "1_year",
+                "trial": false,
+                "prepay_text": null,
+                "price": 449000,
+                "currency": "RUB",
+                "discount_percent": 7,
+                "kind": "premium",
+                "analytics": {
+                  "control": "subscribe_premium_1_year",
+                  "object_type": "subscription",
+                  "object_id": "google_play",
+                  "process_data": {
+                    "sub_type": "premium",
+                    "duration": "1_year",
+                    "payment_method": "google_play",
+                    "plan_id": "bookmate_reader_1year_books_premium_recurrent_171017"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

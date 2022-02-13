@@ -1,0 +1,1257 @@
+{
+  "books": [
+    {
+      "annotation": "«Пятьдесят оттенков серого» – первая часть трилогии Э Л Джеймс, которая сделала автора знаменитой и побила все рекорды продаж: 15 миллионов экземпляров за три месяца. По мнению Лисс Штерн, основательницы DivaMoms.com, «эти книги способны разжечь огонь любви между супругами с большим стажем. Прочитав их, вы вновь почувствуете себя сексуальной».",
+      "authors": "Э.Л. Джеймс",
+      "authors_objects": [
+        {
+          "name": "Э.Л. Джеймс",
+          "locale": "ru",
+          "uuid": "Xz5Wz82p",
+          "works_count": 23
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/48/ac/YhPT3dIj-ipad.jpg?1546944312",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFP0RHk5qiLC4tHx4cICEjipOagImQMDc/PD9GPEFHaW5yYmx4KzA0LjZBHiQwNTg/////+yTUjAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTA4VDEzOjQ1OjEzKzAzOjAw6SGCiwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0wOFQxMzo0NToxMyswMzowMJh8OjcAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.64,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/48/ac/YhPT3dIj-thumb.jpg?1546944312"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 500,
+      "restricted_reading_on_web": false,
+      "title": "Пятьдесят оттенков серого",
+      "uuid": "YhPT3dIj",
+      "bookshelves_count": 1101,
+      "impressions_count": 212,
+      "quotes_count": 2561,
+      "readers_count": 94338,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Выпускник школы Кью Джейкобсен с детских лет тайно влюблен в свою прекрасную и дерзкую соседку Марго Рот Шпигельман. Поэтому, когда однажды ночью она приглашает его принять участие в «карательной операции» против ее обидчиков, он соглашается. Но, придя в школу после их ночного приключения, Кью узнает, что Марго исчезла… оставив для него лишь таинственные послания, которые он должен разгадать, чтобы найти девушку. И Кью бросается в отчаянную погоню, но девушки, которая долгие годы царила в его сердце, на самом деле нет.",
+      "authors": "Джон Грин",
+      "authors_objects": [
+        {
+          "name": "Джон Грин",
+          "locale": "ru",
+          "uuid": "xBYNlaLZ",
+          "works_count": 18
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/8a/31/kC7IH55A-ipad.jpg?1525424330",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFvKmrkH1/oo+RspqaXk13VkdwaVl9i3iU0a+W1LSbyKaL9dGv6drH18q6oJKJvKei////EiujAwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDA0OjA0OjU0KzAzOjAwfqhP+gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwNDowNDo1NCswMzowMA/190YAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC",
+        "ratio": 0.645,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/8a/31/kC7IH55A-thumb.jpg?1525424330"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 278,
+      "restricted_reading_on_web": false,
+      "title": "Бумажные города",
+      "uuid": "kC7IH55A",
+      "bookshelves_count": 970,
+      "impressions_count": 272,
+      "quotes_count": 1801,
+      "readers_count": 36133,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Пол публикует первый роман и уезжает из Сан-Франциско в Париж. Сочиняет, встречается с читателями – и чувствует себя безмерно одиноким. Миа бежит из Лондона, бросив предавшего ее мужа, и находит убежище у подруги-француженки. Миа случайно заходит на сайт знакомств и назначает встречу Полу. С этого момента жизнь обоих превращается в клубок проблем. От друзей никакой помощи, они только еще больше все запутывают. Куда бежать, разве что на край света? Но даже далекое путешествие не поможет убежать от самого себя.",
+      "authors": "Марк Леви",
+      "authors_objects": [
+        {
+          "name": "Марк Леви",
+          "locale": "ru",
+          "uuid": "RY412hHS",
+          "works_count": 45
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/1f/2e/TBu1OIog-ipad.jpg?1545989541",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQzIWXj4nmG5IpX5FOSwcSzQsalA5aE8njVNFjlVOoWhUsndVqnpMn3hRrY1a2rR2////pihqcgAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDA1OjMzOjI2KzAzOjAwRVrzNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwNTozMzoyNiswMzowMDQHS4sAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.7,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/1f/2e/TBu1OIog-thumb.jpg?1545989541"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 227,
+      "restricted_reading_on_web": false,
+      "title": "Она & Он",
+      "uuid": "TBu1OIog",
+      "bookshelves_count": 976,
+      "impressions_count": 271,
+      "quotes_count": 935,
+      "readers_count": 22019,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "…«Есть, молиться, любить» – книга о том, как можно найти радость там, где не ждешь, и как не нужно искать счастье там, где его не будет, по определению.…Современная книга о современной женщине, для которой есть, молиться, любить – значит получать удовольствие от жизни.",
+      "authors": "Элизабет Гилберт",
+      "authors_objects": [
+        {
+          "name": "Элизабет Гилберт",
+          "locale": "ru",
+          "uuid": "wfuQUxrq",
+          "works_count": 14
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/e2/23/RKXCo5hm-ipad.jpg?1524117059",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF+fP18erk8Ofg+fDx8ujn6uDX6d/V9Onl4tXP2sy/286+59rS+Ovj7uHR7t7O9ujf////Jh3EWgAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTE5VDA4OjUxOjAxKzAzOjAwANsB+wAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0xOVQwODo1MTowMSswMzowMHGGuUcAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.68,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/e2/23/RKXCo5hm-thumb.jpg?1524117059"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 454,
+      "restricted_reading_on_web": false,
+      "title": "Есть, молиться, любить",
+      "uuid": "RKXCo5hm",
+      "bookshelves_count": 778,
+      "impressions_count": 267,
+      "quotes_count": 9763,
+      "readers_count": 23525,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Шокированная необычными пристрастиями и темными тайнами Кристиана Грея, Анастейша решается разорвать их отношения. Но мысли о молодом красавце-миллионере ее не оставляют, и, когда он предлагает начать все сначала, Анастейша не в силах сопротивляться. Огонь страсти вспыхивает с новой силой, и она все больше погружается в ужасное прошлое своего избранника, пытаясь понять, что чувствует человек, в душе которого – пятьдесят оттенков зла. Обоих ждут испытания: Кристиану предстоит вступить в борьбу со своими демонами, а Ане – противостоять злу и зависти женщин, которые были с Кристианом до нее, и принять самое важное в своей жизни решение.",
+      "authors": "Э.Л. Джеймс",
+      "authors_objects": [
+        {
+          "name": "Э.Л. Джеймс",
+          "locale": "ru",
+          "uuid": "Xz5Wz82p",
+          "works_count": 23
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/5b/26/nwbQvIDt-ipad.jpg?1546944281",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFFx8hNj5AO0NFKzM1NzE9f3mFXFZiXVdjBAoKZGhpdnp7GBwdRxsaUyUleUtLWSkp////fBXWIQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTA4VDEzOjQ0OjQyKzAzOjAw6HTsZQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0wOFQxMzo0NDo0MiswMzowMJkpVNkAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.635,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/5b/26/nwbQvIDt-thumb.jpg?1546944281"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 587,
+      "restricted_reading_on_web": false,
+      "title": "На пятьдесят оттенков темнее",
+      "uuid": "nwbQvIDt",
+      "bookshelves_count": 887,
+      "impressions_count": 153,
+      "quotes_count": 1365,
+      "readers_count": 45465,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "По соседству с бедной, но уважаемой семьей Беннет поселился богатый и загадочный мистер Дарси. Одной из пяти дочерей миссис Беннет удалось покорить сердце молодого аристократа. Но энергичная красавица Элизабет Беннет его отвергла. Он показался ей слишком надменным и самодовольным. Да и слишком большой казалась разница в их общественном положении, а злобные сплетни окружающих довершили дело. Лишь постепенно Элизабет и мистер Дарси, преодолевая гордость и предубеждения, лучше узнают друг друга, и их соединит настоящая любовь, которой подвластны любые преграды…",
+      "authors": "Джейн Остен",
+      "authors_objects": [
+        {
+          "name": "Джейн Остен",
+          "locale": "ru",
+          "uuid": "wPO56wdh",
+          "works_count": 63
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/e6/02/CVxyohdh-ipad.jpg?1524117111",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF0cZ2p5lsc2c3vbV2wrVvh3VRUEIbb2Yrs6JqhG5WiXlYqZ5oqJNkfmdVqpd5y76H////xoUZ+wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAcSURBVAgdY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHk7JIteAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTE5VDA4OjUxOjUyKzAzOjAwedMVAgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0xOVQwODo1MTo1MiswMzowMAiOrb4AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.64,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/e6/02/CVxyohdh-thumb.jpg?1524117111"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 477,
+      "restricted_reading_on_web": false,
+      "title": "Гордость и предубеждение",
+      "uuid": "CVxyohdh",
+      "bookshelves_count": 907,
+      "impressions_count": 233,
+      "quotes_count": 1183,
+      "readers_count": 18404,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Любовь живет три года — это закон природы. Так считает Марк Марронье, знакомый читателям по романам «99 франков» и «Каникулы в коме». Но причина его развода с женой никак не связана с законами природы, просто новая любовь захватывает его целиком, не оставляя места ничему другому. Однако Марк верит в свою теорию и поэтому с затаенным страхом ждет приближения роковой даты.",
+      "authors": "Фредерик Бегбедер",
+      "authors_objects": [
+        {
+          "name": "Фредерик Бегбедер",
+          "locale": "ru",
+          "uuid": "EYk1L5lg",
+          "works_count": 27
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/4a/71/QHGK2mqt-ipad.jpg?1524116797",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFqY59s5mKmIFxdmBStpmJwaWXvKWXrJmLwKORmn9uf2lbgnJlkXJeVzwrMh8RMiQb////rFB2xwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAUSURBVAjXY2RgZGRkZGFkZGSBEwABUQAj/LXgBAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNC0xOVQwODo0NjozOCswMzowMDieh3IAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDQtMTlUMDg6NDY6MzgrMDM6MDBJwz/OAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg==",
+        "ratio": 0.765,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/4a/71/QHGK2mqt-thumb.jpg?1524116797"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 93,
+      "restricted_reading_on_web": false,
+      "title": "Любовь живет три года",
+      "uuid": "QHGK2mqt",
+      "bookshelves_count": 500,
+      "impressions_count": 218,
+      "quotes_count": 9507,
+      "readers_count": 18905,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Бестселлер прославленной ирландки Сесилии Ахерн «P.S. Я люблю тебя» — современная история о том, как любовь оказывается сильнее смерти. Потеряв любимого мужа, тридцатилетняя Холли Кеннеди впадает в отчаяние, перестает выходить из дому, общаться с людьми. И вдруг получает по почте пакет с письмами: распечатывать их можно лишь по одному в месяц, а написаны они тем самым человеком, расставание с которым приносит ей такие страдания. Оказывается, незадолго до смерти он решил помочь ей жить дальше. Всякий раз она с нетерпением ждет первого числа, чтобы вскрыть очередной конверт и, строго следуя наставлениям, сделать еще один шаг, возвращающий ее к жизни: купить новое платье, принять участие в конкурсе караоке, съездить на море.\nРоман переведен почти на полсотни языков, а кинофильм «P.S. Я люблю тебя», созданный компанией Warner Brothers, триумфально шествует по экранам всего мира.",
+      "authors": "Сесилия Ахерн",
+      "authors_objects": [
+        {
+          "name": "Сесилия Ахерн",
+          "locale": "ru",
+          "uuid": "PblDZNP3",
+          "works_count": 40
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/fd/46/TPPT6j0s-ipad.jpg?1524116796",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/e2xoIldel5Gu6CZt6+kkHxzvZyTqYV5WVpccmdlyq2luZGF0tTJycC359DK99rW////ltQcRwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAD2EAAA9hAag/p2kAAAAaSURBVAjXBcGBDQAABAMwVhH/X6xVnRhYODwCSQA/1u7WQQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNC0xOVQwODo0NjozNyswMzowMM7W95sAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDQtMTlUMDg6NDY6MzcrMDM6MDC/i08nAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg==",
+        "ratio": 0.71,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/fd/46/TPPT6j0s-thumb.jpg?1524116796"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 364,
+      "restricted_reading_on_web": false,
+      "title": "P.S. Я люблю тебя",
+      "uuid": "TPPT6j0s",
+      "bookshelves_count": 403,
+      "impressions_count": 129,
+      "quotes_count": 632,
+      "readers_count": 21980,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "«Обладать» — один из лучших английских романов конца XX века и, несомненно, лучшее произведение Антонии Байетт. Впрочем, слово «роман» можно применить к этой удивительной прозе весьма условно. Что же такое перед нами? Детективный роман идей? Женский готический роман в современном исполнении? Рыцарский роман на новый лад? Все вместе — и нечто большее, глубоко современная вещь, вобравшая многие традиции и одновременно отмеченная печатью подлинного вдохновения и новаторства. В ней разными гранями переливается тайна английского духа и английского величия.Но прежде всего, эта книга о живых людях (пускай некоторые из них давно умерли), образы которых наваждением сходят к читателю; о любви, мятежной и неистовой страсти, побеждающей время и смерть; об устремлениях духа и плоти, земных и возвышенных, явных и потаенных; и о божественном Плане, который проглядывает в трагических и комических узорах судьбы человеческой… По зеркальному лабиринту сюжета персонажи этого причудливого повествования пробираются в таинственное прошлое: обитатели эпохи людей — в эпоху героев, а обитатели эпохи героев — в эпоху богов. Две стихии царят на этих страницах — стихия ума, блеска мысли, почти чувственного, и стихия тонкого эротизма, рождающегося от соприкосновения грубой материи жизни с нежными тканями фантазии.«Обладать» занимает уникальное место в истории современной литературы и, при своем глубоком национальном своеобразии, принадлежит всему миру. Теперь, четверть века спустя после выхода шедевра Байетт, кажется мало Бу\u00adкеровской премии, присужденной в 1990 году. Как, может быть, мало и ордена Британской империи, врученного автору чуть позднее…",
+      "authors": "Антония Байетт",
+      "authors_objects": [
+        {
+          "name": "Антония Байетт",
+          "locale": "ru",
+          "uuid": "mhcrMsLe",
+          "works_count": 15
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/dd/60/WCULMbha-ipad.jpg?1524118528",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRFwq2ArZhrhW9Gkn1QhXBDcVsydF41gG9EdWQ5Y1EtZVMvh3ZLemk+W0klXkwo////5LmTxAAAAAFiS0dEDxi6ANkAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAUSURBVAjXY2RUZDRRYqxQYtyjBAAIhwH1soZ0sgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNC0xOVQwOToxNToyOSswMzowMBW1QpwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDQtMTlUMDk6MTU6MjkrMDM6MDBk6PogAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADJ4MiwxeDEsMXgxSfqmtAAAAABJRU5ErkJggg==",
+        "ratio": 0.665,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/dd/60/WCULMbha-thumb.jpg?1524118528"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 928,
+      "restricted_reading_on_web": false,
+      "title": "Обладать",
+      "uuid": "WCULMbha",
+      "bookshelves_count": 464,
+      "impressions_count": 84,
+      "quotes_count": 1410,
+      "readers_count": 9070,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "События книги разворачиваются вокруг мальчика, которого отдали в приют. Он быстро понимает, что справедливости в мире нет. В этой сказке будет несколько мятных капучино, много снега и пара разбитых сердец.",
+      "authors": "Александр Полярный",
+      "authors_objects": [
+        {
+          "name": "Александр Полярный",
+          "locale": "ru",
+          "uuid": "A0nDSrmV",
+          "works_count": 4
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/38/db/R10UVjIo-ipad.jpg?1545989193",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAC1QTFRFDg4OCgoKFhYWDw8PPz8/REREIyMjVVVV5OTk7Ozs0NDQ0tLS3t7eycnJ////EMs57AAAAAFiS0dEDm+9ME8AAAAJcEhZcwAAFxEAABcRAcom8z8AAAAUSURBVAjXY2ZUZnY1Zk43ZK6QBgAJLgHUhJUIFwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wMi0xM1QwMjoyMjo0OCswMzowMIA1M0sAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDItMTNUMDI6MjI6NDgrMDM6MDDxaIv3AAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg==",
+        "ratio": 0.705,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/38/db/R10UVjIo-thumb.jpg?1545989193"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 51,
+      "restricted_reading_on_web": false,
+      "title": "Сказка о самоубийстве",
+      "uuid": "R10UVjIo",
+      "bookshelves_count": 340,
+      "impressions_count": 250,
+      "quotes_count": 1445,
+      "readers_count": 8529,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "«Грозовой Перевал» Эмили Бронте — не просто золотая классика мировой литературы, но роман, перевернувший в свое время представления о романтической прозе. Проходят годы и десятилетия, но история роковой страсти Хитклифа, приемного сына владельца поместья «Грозовой перевал», к дочери хозяина Кэтрин не поддается ходу времени. «Грозовым Перевалом» зачитывалось уже много поколений женщин — продолжают зачитываться и сейчас. Эта книга не стареет, как не стареет истинная любовь…",
+      "authors": "Эмили Бронте",
+      "authors_objects": [
+        {
+          "name": "Эмили Бронте",
+          "locale": "ru",
+          "uuid": "PJfCn0vk",
+          "works_count": 15
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/f2/1e/uuWTm2rq-ipad.jpg?1524116709",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFzs/UtrnAq663pamyh4qTbXB5q6+6n6OvPD5NNzpJhomYnqS0FBcqEhQpHSI2PURX////onI9KAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTE5VDA4OjQ1OjA5KzAzOjAw+1EwJgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0xOVQwODo0NTowOSswMzowMIoMiJoAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.64,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/f2/1e/uuWTm2rq-thumb.jpg?1524116709"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 409,
+      "restricted_reading_on_web": false,
+      "title": "Грозовой перевал",
+      "uuid": "uuWTm2rq",
+      "bookshelves_count": 533,
+      "impressions_count": 177,
+      "quotes_count": 1772,
+      "readers_count": 13571,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "<p>Рози и Алекс дружат с раннего детства. Они не забывают друг о друге даже в вихре радостей и треволнений юности, разведшей их по разные стороны океана, и ведут оживленную переписку. Друзья знают: что бы с ними ни случилось, всегда есть плечо, на которое они могут опереться. Но не подточат ли даже такую крепкую и нежную дружбу бесконечные браки и разводы обоих героев этой горькой и светлой истории?</p>\n<p>«Там, где заканчивается радуга» — это новый перевод книги «Не верю, не надеюсь, люблю…».</p>",
+      "authors": "Сесилия Ахерн",
+      "authors_objects": [
+        {
+          "name": "Сесилия Ахерн",
+          "locale": "ru",
+          "uuid": "PblDZNP3",
+          "works_count": 40
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/cc/cb/uVfm5P3e-ipad.jpg?1545989551",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFgoCNkH56oIKCm3uAdGhodl9PdVRLX0NAg390iHxmjH5zfXl64r2G5bx85b+O0LeY////AWhGrwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAATSURBVAjXY2JgZGJmYmFhYUEQAAJEAD9T7lmXAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTE5VDE4OjIzOjQ1KzAzOjAwwB8P2gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0xOVQxODoyMzo0NSswMzowMLFCt2YAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAACnRFWHRyZGY6QWx0ACAgzYPMqwAAABJ0RVh0eG1wTU06RGVyaXZlZEZyb20Al6gkCAAAAABJRU5ErkJggg==",
+        "ratio": 0.65,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/cc/cb/uVfm5P3e-thumb.jpg?1545989551"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 368,
+      "restricted_reading_on_web": false,
+      "title": "Там, где заканчивается радуга",
+      "uuid": "uVfm5P3e",
+      "bookshelves_count": 321,
+      "impressions_count": 152,
+      "quotes_count": 591,
+      "readers_count": 12526,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Согласно легенде, создание романа «Унесенные ветром» началось с того, как Маргарет Митчелл написала главную фразу последней главы: «Ни одного из любимых ею мужчин Скарлетт так и не смогла понять и вот – потеряла обоих». Последующая работа над произведением продолжалась около десяти лет и потребовала от писательницы огромной самоотдачи и напряженного труда. Стремясь проникнуть в самый дух эпохи, Митчелл кропотливо изучала историю родной Атланты, использовала газеты и журналы середины XIX века. На страницах ее рукописи оживали рассказы очевидцев Гражданской войны и семейные предания. Некоторые сцены Митчелл переписывала по четыре-пять раз, а что касается первой главы, писательницу удовлетворил лишь 60-й вариант!\r\nРоман, вышедший весной 1936 года, имел беспрецедентный успех и сразу побил все рекорды по популярности и тиражам во всей истории американской литературы. А одноименная экранизация с Вивьен Ли и Кларком Гейблом в главных ролях завоевала 10 премий «Оскар» и стала одной из самых знаменитых лент в истории мирового кинематографа.",
+      "authors": "Маргарет Митчелл",
+      "authors_objects": [
+        {
+          "name": "Маргарет Митчелл",
+          "locale": "ru",
+          "uuid": "GXqdDhmm",
+          "works_count": 10
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/08/18/zCnqGCnZ-ipad.jpg?1547021708",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFkkBGi0g/hEY5YRYTgDE3pHhrlohtf3Rgj15Qk3pcgn5Ynpl5AwwHChAEDhADCgUC////N4adggAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTA5VDExOjE1OjA4KzAzOjAwmO9edwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0wOVQxMToxNTowOCswMzowMOmy5ssAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.645,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/08/18/zCnqGCnZ-thumb.jpg?1547021708"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 783,
+      "restricted_reading_on_web": false,
+      "title": "Унесенные ветром. Том 1",
+      "uuid": "zCnqGCnZ",
+      "bookshelves_count": 361,
+      "impressions_count": 102,
+      "quotes_count": 1486,
+      "readers_count": 8570,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Каждому хочется верить: настоящая любовь бессмертна.\nКаждому хочется надеяться: истинное чувство можно пронести сквозь годы и испытания… Доусон Коул и первая красавица школы Аманда полюбили друг друга, – однако жизнь развела их. Прошло много лет. Аманда стала женой другого, у нее семья, дом, дети… Но случай приводит ее в родной городок и дарит новую встречу с Доусоном.\nИх любовь вспыхивает вновь, – и Аманда, и Доусон понимают, что расставание было трагической ошибкой.\nНеужели, им представился шанс начать все сначала? Или у судьбы свои планы?",
+      "authors": "Николас Спаркс",
+      "authors_objects": [
+        {
+          "name": "Николас Спаркс",
+          "locale": "ru",
+          "uuid": "SelrUzUV",
+          "works_count": 41
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/f3/6c/TMFYhHGQ-ipad.jpg?1546682631",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFqbS4ysfOwcLGytXXY2hrpZyhnJqdpa6tOT4VhHpWdXJJUVothoVZ0MGa39OpoqRz////AFuVsAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTA1VDEzOjAzOjUyKzAzOjAwf5HGWQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0wNVQxMzowMzo1MiswMzowMA7MfuUAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.789,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/f3/6c/TMFYhHGQ-thumb.jpg?1546682631"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 307,
+      "restricted_reading_on_web": false,
+      "title": "Лучшее во мне",
+      "uuid": "TMFYhHGQ",
+      "bookshelves_count": 278,
+      "impressions_count": 63,
+      "quotes_count": 158,
+      "readers_count": 12845,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Селестина Норт идеальна во всем: образцовая дочь и сестра, любимица учителей и одноклассников, девушка неотразимого Арта Кревана.Но однажды Селестина попадает в непредвиденную ситуацию и, следуя велению сердца, нарушает закон. Кара неотвратима: либо тюрьма, либо Клеймо. То есть — навеки отверженная.Блистательная Сесилия Ахерн нарисовала мир, в котором идеал ценится превыше всего и малейшие отступления от него наказуемы. Что произойдет, когда юная девушка рискнет всем, что ей дорого, и решится противостоять системе?Дебютный роман в жанре «young adult» от автора международных бестселлеров — удивительно достоверная и эмоциональная история, герои которой покорят сердца читателей любого возраста. Права на экранизацию книги приобретены компанией Warner Bros.",
+      "authors": "Сесилия Ахерн",
+      "authors_objects": [
+        {
+          "name": "Сесилия Ахерн",
+          "locale": "ru",
+          "uuid": "PblDZNP3",
+          "works_count": 40
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/8b/2d/iiv18f0t-ipad.jpg?1525424330",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFeKWel7q2ocHAkrm2zdfYra6yt7S75OnvfJuMbIF4bH97e5SQgI5/iI6EfX96Y25q////luEAiQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDAyOjE0OjEzKzAzOjAwXi5/kwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwMjoxNDoxMyswMzowMC9zxy8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.65,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/8b/2d/iiv18f0t-thumb.jpg?1525424330"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 317,
+      "restricted_reading_on_web": false,
+      "title": "Клеймо",
+      "uuid": "iiv18f0t",
+      "bookshelves_count": 336,
+      "impressions_count": 149,
+      "quotes_count": 413,
+      "readers_count": 6534,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "«Элегантность ежика», второй роман французской писательницы Мюриель Барбери (р. 1969), прославил ее имя не только во Франции, но и во многих других странах. Мю\u00adриель страстно влюблена в творчество Л.Н. Толстого и куль\u00adтуру Японии, и обе эти страсти она выразила в этой книге. Девочка-подросток, умная и образованная не по годам, пожилая консьержка, изучающая философские труды и слу\u00adшающая Моцарта, богатый японец, поселившийся на склоне лет в роскошной парижской квартире… О том, что связывает этих людей, как меняется их жизнь после того, как они случайно находят друг друга, читатель узнает, открыв этот прекрасный, тонкий, увлекательный роман.",
+      "authors": "Мюриэль Барбери",
+      "authors_objects": [
+        {
+          "name": "Мюриэль Барбери",
+          "locale": "ru",
+          "uuid": "ADR4DV2T",
+          "works_count": 5
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/5f/04/YUVPetpg-ipad.jpg?1524120524",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF3dPKsqifr6ad187F0ce+xryz3dTL//jvbldPdl9Xk31ynYd8MxwUOCEZSTMoNyEW////Gmn6bwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVAjXBcGxDQAADAKgkjg4+P+9BQeBwvABaAAptIVE8gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNC0xOVQwOTo0ODo0NCswMzowMDakDSkAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDQtMTlUMDk6NDg6NDQrMDM6MDBH+bWVAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADJ4MiwxeDEsMXgxSfqmtAAAAABJRU5ErkJggg==",
+        "ratio": 0.635,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/5f/04/YUVPetpg-thumb.jpg?1524120524"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 262,
+      "restricted_reading_on_web": false,
+      "title": "Элегантность ежика",
+      "uuid": "YUVPetpg",
+      "bookshelves_count": 390,
+      "impressions_count": 208,
+      "quotes_count": 3228,
+      "readers_count": 7985,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Бель де Жур – самая знаменитая девушка по вызову. Ее интимный блог взорвал интернет-сообщество. Ее «Тайный дневник…» читали в метро даже самые чопорные британцы (обернув в газету, естественно). А снятый по книге сериал установил рекордные показатели рейтингов для сериала-новичка. Бель открыла свое настоящее имя. И она готова поделиться опытом. Какие типы мужчин бывают, где и как с ними лучше знакомиться, когда самое время переходить к сексу и чего парни втайне ждут от вас в постели и в отношениях. Благодаря уникальному тесту Бель вы определите, к какому типу охотницы вы относитесь, а благодаря ее советам – усовершенствуете свой стиль соблазнения.",
+      "authors": "Бель де Жур",
+      "authors_objects": [
+        {
+          "name": "Бель де Жур",
+          "locale": "ru",
+          "uuid": "XWG9M4gd",
+          "works_count": 9
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/0a/a8/Mm2X2dM4-ipad.jpg?1546503344",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFRi4qhXBtmIaGSjo9bzIvgUVEjVJUYysuGhsdBQYKIyYrPkNJDQcHFA4QGRUWExES////WxCKDwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTAzVDExOjE1OjQ1KzAzOjAwicGLYQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0wM1QxMToxNTo0NSswMzowMPicM90AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.695,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/0a/a8/Mm2X2dM4-thumb.jpg?1546503344"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 180,
+      "restricted_reading_on_web": false,
+      "title": "Гид по мужчинам",
+      "uuid": "Mm2X2dM4",
+      "bookshelves_count": 250,
+      "impressions_count": 36,
+      "quotes_count": 947,
+      "readers_count": 5686,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Новый роман от Лианы Мориарти с захватывающим сюжетом и с привлекательными и эксцентричными персонажами. У Софи Ханивел прекрасная работа и любящие родители, а вот личная жизнь не сложилась. Совершенно неожиданно Софи получает в наследство дом престарелой тетушки на крошечном острове Скрибли-Гам. В письме, приложенном к завещанию, эта дама пишет о симпатичном молодом человеке, который очень подошел бы Софи. Молодая женщина с радостью переезжает на очаровательный остров в надежде, что найдет там мужа. Но в результате жизнь Софи становится все более запутанной, и она понимает: не следует ждать прекрасного принца, а пора взять все в свои руки и создать собственный сказочный финал. Впервые на русском языке!",
+      "authors": "Лиана Мориарти",
+      "authors_objects": [
+        {
+          "name": "Лиана Мориарти",
+          "locale": "ru",
+          "uuid": "irTmetie",
+          "works_count": 19
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/08/96/gBjl8yBb-ipad.jpg?1518487432",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRF9fHy7ezq4eDe9Ojs6d3f4dXX7OLj+unv5tfa5dbZ8uPm//v96OLi7eno+vb1////4Sii9QAAAAFiS0dEDxi6ANkAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAUSURBVAjXY2FUYDFWYnFRYnFRAgAG2wFTsLHHYAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wMi0xM1QwNTowMzo1MiswMzowMCIyuDwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDItMTNUMDU6MDM6NTIrMDM6MDBTbwCAAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg==",
+        "ratio": 0.65,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/08/96/gBjl8yBb-thumb.jpg?1518487432"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 423,
+      "restricted_reading_on_web": false,
+      "title": "Последний шанс",
+      "uuid": "gBjl8yBb",
+      "bookshelves_count": 214,
+      "impressions_count": 135,
+      "quotes_count": 314,
+      "readers_count": 5619,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Тина даже представить не могла, насколько автомобильная пробка изменит её жизнь. В тот раз, устав от насмешек и непристойных предложений, она демонстративно покинула свой роскошный красный кабриолет на глазах у изумлённых мужчин: просто бросила машину посреди дороги и ушла в кафе. Пережидая, пока освободится шоссе, Тина знакомится с привлекательным серьёзным мужчиной. А вскоре оказывается у него дома… Это будет последний день её независимости. Блестящая бизнесвумен исчезнет, зато появится рыжеволосая бестия, которая безропотно выполнит любой приказ своего повелителя – криминального авторитета, промышляющего наркотиками и продажей оружия",
+      "authors": "Юлия Шилова",
+      "authors_objects": [
+        {
+          "name": "Юлия Шилова",
+          "locale": "ru",
+          "uuid": "bKVvZlc5",
+          "works_count": 277
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/59/21/f7PoZB24-ipad.jpg?1524178498",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFWRwXgnlyZ11cNx0eJAYSo4qO6NHJPDQyXEQGX0MtalddGxUZkXA9bVhHQzxMQDU7////islh5wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTIwVDAxOjU1OjAwKzAzOjAwpjP1hwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0yMFQwMTo1NTowMCswMzowMNduTTsAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.75,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/59/21/f7PoZB24-thumb.jpg?1524178498"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 225,
+      "restricted_reading_on_web": false,
+      "title": "Высокие отношения, или Залезая в карман, не лезу в душу",
+      "uuid": "f7PoZB24",
+      "bookshelves_count": 67,
+      "impressions_count": 20,
+      "quotes_count": 71,
+      "readers_count": 3195,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Эндрю Стилмен, талантливый журналист, сделал блестящую карьеру в газете “Нью-Йорк таймс”. Его статьи пользуются огромным успехом, и это вызывает зависть коллег. Собирая материал для будущей статьи, Эндрю по ходу журналистского расследования встречается с опасными людьми. Однажды во время утренней пробежки на него нападает неизвестный. Смертельно раненный, он теряет сознание, а очнувшись, понимает, что попал на два месяца назад. Судьба дала ему второй шанс, нужно только найти убийцу…",
+      "authors": "Марк Леви",
+      "authors_objects": [
+        {
+          "name": "Марк Леви",
+          "locale": "ru",
+          "uuid": "RY412hHS",
+          "works_count": 45
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/60/de/hpQTdebS-ipad.jpg?1518487018",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFpWJZfjszkU5GtnNr7eznLSwoHRwY2NfTgH2GDAkSLis0wbvHPzs4JSEecWtrpqCg////p1wVhAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAMOcAADDnAXwTGHcAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDA0OjU3OjAwKzAzOjAwWGdyzAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwNDo1NzowMCswMzowMCk6ynAAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.705,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/60/de/hpQTdebS-thumb.jpg?1518487018"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 382,
+      "restricted_reading_on_web": false,
+      "title": "Уйти, чтобы вернуться",
+      "uuid": "hpQTdebS",
+      "bookshelves_count": 139,
+      "impressions_count": 53,
+      "quotes_count": 161,
+      "readers_count": 9488,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Эндрю Стилмен, журналист «Нью-Йорк таймс», пытается найти новую интересную тему для статьи. Случайно познакомившись с девушкой по имени Сьюзи, он вскоре понимает, что ее жизнь в опасности: она намерена пролить\r\nсвет на старую семейную историю, но это совсем не нравится влиятельным политикам. Эндрю решает помочь Сьюзи, и вдвоем они начинают поиски, грозящие обоим гибелью.",
+      "authors": "Марк Леви",
+      "authors_objects": [
+        {
+          "name": "Марк Леви",
+          "locale": "ru",
+          "uuid": "RY412hHS",
+          "works_count": 45
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/a4/1a/NIQtbeaI-ipad.jpg?1524183055",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF89fTyaGix6Kp3M3Q1tjTxbm7yb7E0Nrc1f//2Pb42vP40fr8PpCOQYCFN251JGhr////zCSrtwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAL/sAADGsAYveykkAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTIwVDAzOjEwOjU2KzAzOjAwu6/DVAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0yMFQwMzoxMDo1NiswMzowMMrye+gAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.67,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/a4/1a/NIQtbeaI-thumb.jpg?1524183055"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 365,
+      "restricted_reading_on_web": false,
+      "title": "Сильнее страха",
+      "uuid": "NIQtbeaI",
+      "bookshelves_count": 228,
+      "impressions_count": 99,
+      "quotes_count": 292,
+      "readers_count": 37547,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Красавец, сердцеед, чемпион подпольных боев Трэвис не может пожаловаться на недостаток женского внимания. Но однажды университетскому Казанове встретилась девушка – похоже, та самая, единственная. Загадочная и недоступная Эбби.\r\nТрэвис похвалился при ней, что на ринге мог бы с легкостью одолеть любого соперника, вот только приходится работать на публику – делать вид, будто ты слабее, чем есть на самом деле. Эбби не поверила в его неуязвимость, и тогда было заключено пари: если в очередном поединке он пропустит хоть один удар, то целый месяц будет обходиться без секса, а если выиграет, то Эбби весь месяц проживет в его доме…",
+      "authors": "Джейми Макгвайр",
+      "authors_objects": [
+        {
+          "name": "Джейми Макгвайр",
+          "locale": "ru",
+          "uuid": "CtwMcRD2",
+          "works_count": 51
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/ba/9b/jZLCTFl8-ipad.jpg?1524164135",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFbmltr6qmnpKSV1JWsLC41dXVw8LIhpCa6/Dz4ujmw8jOlqa1qLTEtsTRna7IWXue////hbVNnAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAUSURBVAjXY2RgZGRkZGFkZGSBEwABUQAj/LXgBAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNC0xOVQyMTo1NTozNSswMzowMBULTDQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDQtMTlUMjE6NTU6MzUrMDM6MDBkVvSIAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg==",
+        "ratio": 0.64,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/ba/9b/jZLCTFl8-thumb.jpg?1524164135"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 352,
+      "restricted_reading_on_web": false,
+      "title": "Мое прекрасное несчастье",
+      "uuid": "jZLCTFl8",
+      "bookshelves_count": 245,
+      "impressions_count": 139,
+      "quotes_count": 195,
+      "readers_count": 8288,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Жизнь Джесмин напоминает бег с препятствиями — стоит преодолеть одно, тут же устремляешься к новой цели. У нее есть все, что можно пожелать: интересная работа, родные, друзья. Ничто не мешает бежать дальше, ни в чем не сомневаясь и никогда не останавливаясь. Внезапно Джесмин увольняют, вынуждая остаться без дела на целый год. С привычной энергией она берется возделывать свой сад, а следом и отношения с окружающими. Принесет ли нелегкий труд долгожданные плоды? Впереди у Джесмин год для самых важных в жизни встреч…",
+      "authors": "Сесилия Ахерн",
+      "authors_objects": [
+        {
+          "name": "Сесилия Ахерн",
+          "locale": "ru",
+          "uuid": "PblDZNP3",
+          "works_count": 40
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/e8/c7/ezfVg55K-ipad.jpg?1524290896",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF2r2TwaR6/N2v2LmL0LOJ+Nux/+W389Sm8LOW/9e6/9G02ZZ556qN5qmM/8WoxIFk////RLUSdwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAATSURBVAjXY2JgZGJmYmFhYUEQAAJEAD9T7lmXAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTIxVDA5OjA4OjE3KzAzOjAw3/yumQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0yMVQwOTowODoxNyswMzowMK6hFiUAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC",
+        "ratio": 0.645,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/e8/c7/ezfVg55K-thumb.jpg?1524290896"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 307,
+      "restricted_reading_on_web": false,
+      "title": "Год, когда мы встретились",
+      "uuid": "ezfVg55K",
+      "bookshelves_count": 217,
+      "impressions_count": 95,
+      "quotes_count": 445,
+      "readers_count": 7656,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Америка Сингер была той единственной, которой принц отдал сердце и корону в придачу.Двадцать лет пролетели как один день. У счастливой супружеской пары королевы Америки и короля Максона выросла дочь Идлин, будущая правительница Иллеа. Принцесса красива и умна, но и слышать не хочет о замужестве. Однако особы королевской крови не принадлежат себе. За стенами дворца неспокойно, и король, чтобы отвлечь подданных, решает снова устроить Отбор, подобный тому, что соединил его с королевой. И скрепя сердце Идлин соглашается участвовать в Отборе, надеясь, что каким-то чудом найдет свое счастье…Впервые на русском языке!",
+      "authors": "Кира Касс",
+      "authors_objects": [
+        {
+          "name": "Кира Касс",
+          "locale": "ru",
+          "uuid": "U9bL2Lat",
+          "works_count": 21
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/a7/20/wxEQEkZa-ipad.jpg?1525424330",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFO0ppWFVmR0NRNUFboavGqaOxlo6ZmJ62qqzBqZ+qmo+XpKW3fXqNjoKMlYqSqKa0////WAyDzgAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDAyOjE2OjU4KzAzOjAw3Jb1rgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwMjoxNjo1OCswMzowMK3LTRIAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.645,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/a7/20/wxEQEkZa-thumb.jpg?1525424330"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 328,
+      "restricted_reading_on_web": false,
+      "title": "Наследница",
+      "uuid": "wxEQEkZa",
+      "bookshelves_count": 173,
+      "impressions_count": 58,
+      "quotes_count": 184,
+      "readers_count": 3855,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Жизнь профессора Стивена Уортингтона размеренна и предсказуема. По вторникам и пятницам он преподает в университете, по выходным ужинает с родителями. Два раза в неделю Стивен посещает тренажерный зал в компании сводного брата Мэтта, известного в городе сердцееда.\n\nКаждый вечер он возвращается домой. Всегда в одно и то же время. Всегда один.\n\nЕго спокойное, размеренное существование портит лишь одна «заноза»: мисс Джулия Уайлд. Более взбалмошной и дерзкой студентки и представить нельзя. Девушка раздражает, провоцирует и попросту его бесит! А ее внешний вид! Разве стала бы приличная студентка так одеваться? Стивен с нетерпением ждет окончания семестра, чтобы больше не видеть эту ужасную особу.\n\nВпрочем, когда он оказывается вместе с ней не в университетской аудитории, а в ее квартире, его мнение меняется. Ситуация выходит из-под контроля, и ученица преподает учителю урок любви, щедро делится опытом, которого незадачливому профессору так не хватало.\n\nСтивен Уортингтон был уверен, что живет по правилам, но неожиданное приключение с Джулией переворачивает все с ног на голову. Вероятно, он заболел? Или же небольшая встряска — именно то, что поможет профессору-зануде увидеть жизнь в новых красках?\n\n«Абсолютные новички» — первая книга серии «Любовь под запретом».",
+      "authors": "Эс-Джей Хукс",
+      "authors_objects": [
+        {
+          "name": "Эс-Джей Хукс",
+          "locale": "ru",
+          "uuid": "fuAeg6JK",
+          "works_count": 2
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/8c/a3/tLUGRQdC-ipad.jpg?1524654225",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFzZyOyZiK/+DQkW1d47Kk26qc/+LSwZ2N88O35LSo5MS3xKSX+Mi86rquu5uOooJ1////A/2vRgAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTI1VDE0OjAzOjQ2KzAzOjAwx5mdMQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0yNVQxNDowMzo0NiswMzowMLbEJY0AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC",
+        "ratio": 0.63,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/8c/a3/tLUGRQdC-thumb.jpg?1524654225"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 233,
+      "restricted_reading_on_web": false,
+      "title": "Абсолютные новички",
+      "uuid": "tLUGRQdC",
+      "bookshelves_count": 136,
+      "impressions_count": 75,
+      "quotes_count": 139,
+      "readers_count": 3235,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Филип и Сьюзен привязались друг к другу с детства, казалось, у них впереди чудесная безоблачная жизнь. Однако гибель родителей заставляет юную Сьюзен по-новому взглянуть на окружающий мир: она понимает, что ей недостаточно простого семейного благополучия рядом с любимым человеком, ее цель — помогать тем, кто попал в беду. Бросив все, она уезжает из родной страны. И все же воспоминания детства постоянно преследуют Сьюзен. Именно они однажды заставляют ее круто изменить свою судьбу и судьбу дорогих ее сердцу людей. Вот только сделает ли это их счастливыми?",
+      "authors": "Марк Леви",
+      "authors_objects": [
+        {
+          "name": "Марк Леви",
+          "locale": "ru",
+          "uuid": "RY412hHS",
+          "works_count": 45
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/8c/46/WTGCh90e-ipad.jpg?1529926594",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFcDZPe0FaezlUeTdSo2mC0pixyoijh0VgudPQttDNn6+vV2dnl7Guk62qorKyWGho////ooS/EwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAaSURBVAjXBcGxDQAADAKgkjg4+P+9BQeBwvABaAAptIVE8gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNi0yNVQxNDozNjozNSswMzowMPfLJQEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDYtMjVUMTQ6MzY6MzUrMDM6MDCGlp29AAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADJ4MiwxeDEsMXgxSfqmtAAAAAp0RVh0cmRmOkFsdAAgIM2DzKsAAAALdEVYdHJkZjpCYWcAICAgApPS+AAAABJ0RVh0eG1wTU06RGVyaXZlZEZyb20Al6gkCAAAAABJRU5ErkJggg==",
+        "ratio": 0.7,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/8c/46/WTGCh90e-thumb.jpg?1529926594"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 214,
+      "restricted_reading_on_web": false,
+      "title": "Где ты?",
+      "uuid": "WTGCh90e",
+      "bookshelves_count": 163,
+      "impressions_count": 78,
+      "quotes_count": 886,
+      "readers_count": 11992,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "<p>«Слово о полку Игореве» — известнейший памятник древней русской литературы — описывает неудачный поход на половцев новгород-северского князя Игоря Святославича в союзе с Всеволодом, Владимиром и Святославом Ольговичем (1185 г.). По времени написания «Слово» относят к 1187–1188 году.</p>\n<p>Переводчик Николай Заболоцкий в совершенстве справился со своей задачей, создав один из лучших поэтических переводов «Слова…», который многократно публиковался в различных изданиях этого памятника литературы.</p>",
+      "authors": "Автор неизвестен",
+      "authors_objects": [],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/a3/c3/NgUJNjKD-ipad.jpg?1533048616",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRF45t145Jo4pRr4pVt5Lef46uO2sS538vA45Np4pRs45974oNR4o1g4otc4ohZ////plBRfQAAAAFiS0dEDxi6ANkAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAUSURBVAjXY2BUZnBNZ2icxbDnHgANsQOGDXpCuAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNy0zMVQxNzo1MDoyNiswMzowMNad7lQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDctMzFUMTc6NTA6MjYrMDM6MDCnwFboAAAAAElFTkSuQmCC",
+        "ratio": 0.665,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/a3/c3/NgUJNjKD-thumb.jpg?1533048616"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 14,
+      "restricted_reading_on_web": false,
+      "title": "Слово о полку Игореве",
+      "uuid": "NgUJNjKD",
+      "bookshelves_count": 102,
+      "impressions_count": 13,
+      "quotes_count": 145,
+      "readers_count": 1931,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Наконец – и это самое важное – у меня нет ни малейшей защиты против мужчин. Я всегда буду жертвой своего бескорыстия и их удовольствия. Я слишком влюбчива, да, я слишком обожаю любовь, чтобы извлекать из нее какую-нибудь выгоду. Она сильнее меня. Я не могу просить денег у того, кто мне доставляет наслаждение и раскрывает лучезарные двери восторга. Когда они мне говорят, эти чудовища… и я чувствую на шее прикосновение их бороды и горячее дыхание… представьте!.. Я становлюсь настоящей тряпкой, и тогда они берут от меня все, что хотят…\nГорничная Селестина, поступившая на работу в семейство Монтей, любопытна и наблюдательна. Немало пикантных подробностей о ненасытной сексуальности, утонченном фетишизме и склонности к насилию обитателей этого дома открылось ей. Об этом, о ее собственных интимных ощущениях, о приобретенном ею опыте и поведал дневник Селестины…",
+      "authors": "Октав Мирбо",
+      "authors_objects": [
+        {
+          "name": "Октав Мирбо",
+          "locale": "ru",
+          "uuid": "FFk1bRU2",
+          "works_count": 7
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/9a/7a/WERG4p6k-ipad.jpg?1524118606",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFhU8PuIQXxJIhZ0cOnGUtu4lMtYZOd1xBlWtSnWdPn2lRb1JEtpBstZBjf04lk2JB////fZlNcQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA0LTE5VDA5OjE2OjQ2KzAzOjAwzqWA8QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0xOVQwOToxNjo0NiswMzowML/4OE0AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.715,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/9a/7a/WERG4p6k-thumb.jpg?1524118606"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 352,
+      "restricted_reading_on_web": false,
+      "title": "Дневник горничной",
+      "uuid": "WERG4p6k",
+      "bookshelves_count": 64,
+      "impressions_count": 22,
+      "quotes_count": 74,
+      "readers_count": 3199,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Это — не «любовный роман», а роман о любви. О любви обычных мужчины и женщины — таких, как мы… Почему же книга эта стала абсолютным бестселлером во всем мире? Почему она трогает душу читателей самого разного возраста и интеллектуального уровня? Как Николасу Спарксу удалось повторить сенсационный успех «Истории любви» и «Неспящих в Сиэтле»? Почему фильм, снятый по роману «Дневник памяти», имел огромный успех во всем мире? Объяснить это невозможно. Прочитайте «Дневник памяти» — и поймете сами!",
+      "authors": "Николас Спаркс",
+      "authors_objects": [
+        {
+          "name": "Николас Спаркс",
+          "locale": "ru",
+          "uuid": "SelrUzUV",
+          "works_count": 41
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/b8/33/xXRw6pf9-ipad.jpg?1548759012",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFdoN5ws7axtfzk52mfoRYt7mjoqmhpaqMrqmLqp2Nu7ipjI5famw7emtKiIdpZ28+////sP+I1gAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTI5VDEzOjUwOjEzKzAzOjAwtNKXWQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0yOVQxMzo1MDoxMyswMzowMMWPL+UAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.74,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/b8/33/xXRw6pf9-thumb.jpg?1548759012"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 154,
+      "restricted_reading_on_web": false,
+      "title": "Дневник памяти",
+      "uuid": "xXRw6pf9",
+      "bookshelves_count": 206,
+      "impressions_count": 87,
+      "quotes_count": 471,
+      "readers_count": 4185,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Самый ужасный из кровопийц, продавший душу дьяволу. Отъявленный злодей, умертвивший сотни людей. Это все о нем, графе Дракуле. Почему же он стал таким? История и загадка Дракулы более ста лет будоражат воображение писателей, переводчиков, режиссеров, актеров, аниматоров, но слава романа «Дракула» Брэма Стокера (1847–1912) остается неувядаемой, а успех – непревзойденным. Эта книга не просто пугающий приключенческий роман – в ней множество секретов и скрытых смыслов, она изменила ход развития мировой литературы. По ней сняты десятки фильмов, и продолжают выходить всё новые и новые экранизации. Пять героев романа рассказывают о пережитых ими кошмарных встречах с Дракулой. Юную Люси Вестенра, получившую смертельный укус и постепенно превратившуюся в вампира, не удалось спасти. Но мужественный доктор Ван Хелсинг, его коллеги и друзья – обаятельные Джонатан Харкер и Мина Мюррей, тоже чудом не ставшие жертвами Дракулы, совершили почти невозможное – победили затаившееся в окутанных туманом закоулках Лондона безымянное древнее Зло.",
+      "authors": "Брэм Стокер",
+      "authors_objects": [
+        {
+          "name": "Брэм Стокер",
+          "locale": "ru",
+          "uuid": "UzetSssh",
+          "works_count": 53
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/06/3b/WJGW5Obn-ipad.jpg?1543479397",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFWElOYGBiRU9QHSUoSyo1bl1jdW9xXFdbLRock4uJjomGQDIyKCskNj01Pzw1PSUj////gkL4TQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAD2EAAA9hAag/p2kAAAAaSURBVAjXBcGBDQAABAMwVhH/X6xVnRhYODwCSQA/1u7WQQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0xMS0yOVQxMToxNjozOSswMzowMP1TJmIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMTEtMjlUMTE6MTY6MzkrMDM6MDCMDp7eAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg==",
+        "ratio": 0.66,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/06/3b/WJGW5Obn-thumb.jpg?1543479397"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 508,
+      "restricted_reading_on_web": false,
+      "title": "Дракула",
+      "uuid": "WJGW5Obn",
+      "bookshelves_count": 113,
+      "impressions_count": 50,
+      "quotes_count": 262,
+      "readers_count": 2258,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    }
+  ]
+}

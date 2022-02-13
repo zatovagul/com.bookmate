@@ -1,0 +1,23 @@
+<configuration>
+    <property name="LOG_DIR" value="/data/data/com.bookmate/files/logs" />
+
+    <appender name="file" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_DIR}/debug.log</file>
+        <lazy>true</lazy>
+        <encoder>
+            <pattern>%d{dd.MM HH:mm:ss.SSS} %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- daily rollover -->
+            <fileNamePattern>${LOG_DIR}/debug.%d{yyyy-MM-dd}.zip</fileNamePattern>
+
+            <!-- keep 5 days' worth of history -->
+            <maxHistory>5</maxHistory>
+            <totalSizeCap>20MB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <root level="DEBUG">
+        <appender-ref ref="file" />
+    </root>
+</configuration>

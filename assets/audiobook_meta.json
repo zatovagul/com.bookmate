@@ -1,0 +1,139 @@
+{
+  "book": {
+    "urn": "6502867d-447f-4e4b-b6d2-0991e5ccb0ac",
+    "uuid": "6502867d-447f-4e4b-b6d2-0991e5ccb0ac",
+    "time": "2017-06-26T18:13:59Z"
+  },
+  "digest": {
+    "sha256": "7ce4d3e331652cf02dae35abe27ca8d46a3c5f87b31e8ddca36aff33f1ef8024",
+    "size": 921268564
+  },
+  "preview": false,
+  "codec": "mp3",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "duration_usec": 56478091995,
+  "expire_after": "2017-07-22T17:01:03.203Z",
+  "current_time": "2017-07-07T16:01:03.203Z",
+  "size": 1355541032,
+  "segments": [
+    {
+      "id": 1,
+      "url": "http://localhost/chunk.mp3",
+      "mp3_url": "http://localhost/chunk.mp3",
+      "checksum": "25989bd0ada1db6e59204bb59fa6f654632b4b59de6cb804fa708f9944c2461b",
+      "size": 720157,
+      "duration_usec": 60003265,
+      "offset_usec": 0
+    },
+    {
+      "id": 2,
+      "url": "http://localhost/chunk.mp3",
+      "mp3_url": "http://localhost/chunk.mp3",
+      "checksum": "7ae91a7aa45253cbc15c703c6d9486142960f9e95a4251474e1d7dcda16a1f91",
+      "size": 720157,
+      "duration_usec": 60003265,
+      "offset_usec": 60003265
+    },
+    {
+      "id": 3,
+      "url": "http://localhost/chunk.mp3",
+      "mp3_url": "http://localhost/chunk.mp3",
+      "checksum": "7ae91a7aa45253cbc15c230c6d9486142960f9e95a4251474e1d7dcda16a1f91",
+      "size": 720157,
+      "duration_usec": 60003265,
+      "offset_usec": 120006530
+    },
+    {
+      "id": 4,
+      "url": "http://localhost/chunk.mp3",
+      "mp3_url": "http://localhost/chunk.mp3",
+      "checksum": "7ae91a7aa45253cbc15c210c6d9486142960f9e95a4251474e1d7dcda16a1f91",
+      "size": 720157,
+      "duration_usec": 60003265,
+      "offset_usec": 180009795
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "checksum": "0cc494cdfa29b5e47f5a3aecc47311b999969ecb6f793ff9bbaece4bd90cf62c",
+      "size": 1516574,
+      "duration_usec": 88502857,
+      "offset_usec": 0,
+      "codec": "mp3",
+      "is_vbr": false,
+      "tags": {
+        "album_cover": "image/jpg",
+        "comment": " 00000000 00000210 000009C5 00000000003B822B 00000000 00158E5F 00000000 00000000 00000000 00000000 00000000 00000000",
+        "genre": "проза",
+        "year": "2015",
+        "title": "001 0. 7 августа 1944 г.  1 Листовки",
+        "artist": "Энтони Дорр",
+        "album_artist": "Энтони Дорр",
+        "album": "Весь невидимый нам свет",
+        "track": "001/176"
+      }
+    },
+    {
+      "id": 2,
+      "checksum": "bedfb65b2e8dc96c7e3a09d50f8a3d49dafa3a2d06eed8ab8427fc2d7d159e0b",
+      "size": 1906544,
+      "duration_usec": 112875102,
+      "offset_usec": 88502857,
+      "codec": "mp3",
+      "is_vbr": false,
+      "tags": {
+        "album_cover": "image/jpg",
+        "comment": " 00000000 00000210 000007EA 00000000004BEA86 00000000 001B81A2 00000000 00000000 00000000 00000000 00000000 00000000",
+        "genre": "проза",
+        "year": "2015",
+        "title": "002 0. 7 августа 1944 г.  2 Бомбардировщики",
+        "artist": "Энтони Дорр",
+        "album_artist": "Энтони Дорр",
+        "album": "Весь невидимый нам свет",
+        "track": "002/176"
+      }
+    },
+    {
+      "id": 4,
+      "checksum": "0cc494cdfa29b5e47f5a3aecc47311b999969ecb6f793ff9bbaece4bd90cf62c",
+      "size": 1516574,
+      "duration_usec": 88502857,
+      "offset_usec": 0,
+      "codec": "mp3",
+      "is_vbr": false,
+      "tags": {
+        "album_cover": "image/jpg",
+        "comment": " 00000000 00000210 000009C5 00000000003B822B 00000000 00158E5F 00000000 00000000 00000000 00000000 00000000 00000000",
+        "genre": "проза",
+        "year": "2015",
+        "title": "001 0. 7 августа 1944 г.  1 Листовки",
+        "artist": "Энтони Дорр",
+        "album_artist": "Энтони Дорр",
+        "album": "Весь невидимый нам свет",
+        "track": "001/176"
+      }
+    },
+    {
+      "id": 4,
+      "checksum": "bedfb65b2e8dc96c7e3a09d50f8a3d49dafa3a2d06eed8ab8427fc2d7d159e0b",
+      "size": 1906544,
+      "duration_usec": 112875102,
+      "offset_usec": 88502857,
+      "codec": "mp3",
+      "is_vbr": false,
+      "tags": {
+        "album_cover": "image/jpg",
+        "comment": " 00000000 00000210 000007EA 00000000004BEA86 00000000 001B81A2 00000000 00000000 00000000 00000000 00000000 00000000",
+        "genre": "проза",
+        "year": "2015",
+        "title": "002 0. 7 августа 1944 г.  2 Бомбардировщики",
+        "artist": "Энтони Дорр",
+        "album_artist": "Энтони Дорр",
+        "album": "Весь невидимый нам свет",
+        "track": "002/176"
+      }
+    }
+  ]
+}

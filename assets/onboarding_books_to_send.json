@@ -1,0 +1,128 @@
+[
+    {
+      "annotation": "«Пятьдесят оттенков серого» – первая часть трилогии Э Л Джеймс, которая сделала автора знаменитой и побила все рекорды продаж: 15 миллионов экземпляров за три месяца. По мнению Лисс Штерн, основательницы DivaMoms.com, «эти книги способны разжечь огонь любви между супругами с большим стажем. Прочитав их, вы вновь почувствуете себя сексуальной».",
+      "authors": "Э.Л. Джеймс",
+      "authors_objects": [
+        {
+          "name": "Э.Л. Джеймс",
+          "locale": "ru",
+          "uuid": "Xz5Wz82p",
+          "works_count": 23
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/48/ac/YhPT3dIj-ipad.jpg?1546944312",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFP0RHk5qiLC4tHx4cICEjipOagImQMDc/PD9GPEFHaW5yYmx4KzA0LjZBHiQwNTg/////+yTUjAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAxLTA4VDEzOjQ1OjEzKzAzOjAw6SGCiwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMS0wOFQxMzo0NToxMyswMzowMJh8OjcAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.64,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/48/ac/YhPT3dIj-thumb.jpg?1546944312"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 500,
+      "restricted_reading_on_web": false,
+      "title": "Пятьдесят оттенков серого",
+      "uuid": "YhPT3dIj",
+      "bookshelves_count": 1101,
+      "impressions_count": 212,
+      "quotes_count": 2561,
+      "readers_count": 94338,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Выпускник школы Кью Джейкобсен с детских лет тайно влюблен в свою прекрасную и дерзкую соседку Марго Рот Шпигельман. Поэтому, когда однажды ночью она приглашает его принять участие в «карательной операции» против ее обидчиков, он соглашается. Но, придя в школу после их ночного приключения, Кью узнает, что Марго исчезла… оставив для него лишь таинственные послания, которые он должен разгадать, чтобы найти девушку. И Кью бросается в отчаянную погоню, но девушки, которая долгие годы царила в его сердце, на самом деле нет.",
+      "authors": "Джон Грин",
+      "authors_objects": [
+        {
+          "name": "Джон Грин",
+          "locale": "ru",
+          "uuid": "xBYNlaLZ",
+          "works_count": 18
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/8a/31/kC7IH55A-ipad.jpg?1525424330",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFvKmrkH1/oo+RspqaXk13VkdwaVl9i3iU0a+W1LSbyKaL9dGv6drH18q6oJKJvKei////EiujAwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDA0OjA0OjU0KzAzOjAwfqhP+gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwNDowNDo1NCswMzowMA/190YAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC",
+        "ratio": 0.645,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/8a/31/kC7IH55A-thumb.jpg?1525424330"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 278,
+      "restricted_reading_on_web": false,
+      "title": "Бумажные города",
+      "uuid": "kC7IH55A",
+      "bookshelves_count": 970,
+      "impressions_count": 272,
+      "quotes_count": 1801,
+      "readers_count": 36133,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    },
+    {
+      "annotation": "Пол публикует первый роман и уезжает из Сан-Франциско в Париж. Сочиняет, встречается с читателями – и чувствует себя безмерно одиноким. Миа бежит из Лондона, бросив предавшего ее мужа, и находит убежище у подруги-француженки. Миа случайно заходит на сайт знакомств и назначает встречу Полу. С этого момента жизнь обоих превращается в клубок проблем. От друзей никакой помощи, они только еще больше все запутывают. Куда бежать, разве что на край света? Но даже далекое путешествие не поможет убежать от самого себя.",
+      "authors": "Марк Леви",
+      "authors_objects": [
+        {
+          "name": "Марк Леви",
+          "locale": "ru",
+          "uuid": "RY412hHS",
+          "works_count": 45
+        }
+      ],
+      "cover": {
+        "large": "https://assets3.dev.bookmate.com/assets/books-covers/1f/2e/TBu1OIog-ipad.jpg?1545989541",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQzIWXj4nmG5IpX5FOSwcSzQsalA5aE8njVNFjlVOoWhUsndVqnpMn3hRrY1a2rR2////pihqcgAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDA1OjMzOjI2KzAzOjAwRVrzNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QwNTozMzoyNiswMzowMDQHS4sAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+        "ratio": 0.7,
+        "small": "https://assets3.dev.bookmate.com/assets/books-covers/1f/2e/TBu1OIog-thumb.jpg?1545989541"
+      },
+      "language": "ru",
+      "library_card": null,
+      "paper_pages": 227,
+      "restricted_reading_on_web": false,
+      "title": "Она & Он",
+      "uuid": "TBu1OIog",
+      "bookshelves_count": 976,
+      "impressions_count": 271,
+      "quotes_count": 935,
+      "readers_count": 22019,
+      "can_be_read": true,
+      "access_restrictions": [
+        {
+          "level": "premium"
+        }
+      ],
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "text": "Books",
+          "color": "#4264FD"
+        }
+      ]
+    }
+  ]

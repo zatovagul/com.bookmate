@@ -1,0 +1,55 @@
+{
+    "quote": {
+        "uuid": "KrKiZBpM",
+        "content": "Психолог Пол Розин, эксперт в вопросах отвращения, заметил, что один таракан испортит вид миски ягод, тогда как одна ягодка ничуть не улучшит миску, полную тараканов",
+        "comment": null,
+        "created_at": 1459531306,
+        "likes_count": 2,
+        "liked": false,
+        "comments_count": 0,
+        "color": 0,
+        "style": "highlight",
+        "start_node_xpath": "p[5]/text()[1]",
+        "finish_node_xpath": "p[5]/text()[1]",
+        "start_node_offset": 1,
+        "finish_node_offset": 165,
+        "cfi": "/6/150!/,/2/4/16[e-QQex]/1:0,/2/4/16[e-QQex]/1:164",
+        "creator": {
+            "id": 3052754,
+            "name": "Aliona Vozna",
+            "login": "alionavozna",
+            "avatar": {
+                "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/f5/a1/40c4232c77d982b9548144f48717def4-profile_big.jpg",
+                "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/f5/a1/40c4232c77d982b9548144f48717def4-profile.jpg"
+            },
+            "gender": "f"
+        },
+        "book": {
+            "uuid": "ApOv8ISe",
+            "title": "Думай медленно. Решай быстро",
+            "authors": "Даниэль Канеман",
+            "cover": {
+                "large": "https://assets1.bmstatic.com/assets/documents-covers/39/8a/GWLnpnz8-ipad.jpg?1501757959",
+                "small": "https://assets1.bmstatic.com/assets/documents-covers/39/8a/GWLnpnz8-thumb.jpg?1501757959",
+                "ratio": 0.675,
+                "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAC1QTFRF/Ozv69ve6drd+uvu9ff04+Xi9/z49OXo5dbZ5tfa9urs9/f37u7u+Pj4////4kCZLQAAAAFiS0dEDm+9ME8AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAUSURBVAjXY2FUYnERZDFWYnERBAAGmgEz7GGhTgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wOC0wM1QxMzo1OToxOSswMzowMNnJKGsAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDgtMDNUMTM6NTk6MTkrMDM6MDColJDXAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAABJRU5ErkJggg=="
+            },
+            "language": "ru",
+            "annotation": "Наши действия и поступки определены нашими мыслями. Но всегда ли мы контролируем наше мышление? Нобелевский лауреат Даниэль Канеман объясняет, почему мы подчас совершаем нерациональные поступки и как мы принимаем неверные решения. У нас имеется две системы мышления. «Медленное» мышление включается, когда мы решаем задачу или выбираем товар в магазине. Обычно нам кажется, что мы уверенно контролируем эти процессы, но не будем забывать, что позади нашего сознания в фоновом режиме постоянно работает «быстрое» мышление – автоматическое, мгновенное и неосознаваемое…",
+            "paper_pages": 716,
+            "quotes_count": 13775,
+            "readers_count": 22066,
+            "impressions_count": 49,
+            "bookshelves_count": 1202,
+            "in_wishlist": false,
+            "in_library": false,
+            "can_be_read": false,
+            "labels": [
+                {
+                    "kind": "private",
+                    "title": "Unavailable"
+                }
+            ]
+        }
+    }
+}

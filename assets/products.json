@@ -1,0 +1,375 @@
+{
+  "header": {
+    "description": null,
+    "image": {
+      "label": "without subscription",
+      "url": "https://a.bmstatic.com/iu/have_subscription-33e367b3c41cd0ab6f2dfd44a014ce89.png"
+    },
+    "title": "Подписка на Букмейт"
+  },
+  "products": [
+    {
+      "id": "master",
+      "title": "Оплата премиум-подписки на Букмейт",
+      "label": {
+        "text": "Премиум",
+        "color": "#8F38A7"
+      },
+      "icons": [
+        {
+          "label": "books",
+          "url": "https://a.bmstatic.com/iu/ic-subs-books-2dce6f8816080b1a4626099d29337ce8.png"
+        },
+        {
+          "label": "comicbooks",
+          "url": "https://a.bmstatic.com/iu/ic-subs-comics-67d5ff78650e8d672cda888fd2d25513.png"
+        },
+        {
+          "label": "audiobooks",
+          "url": "https://a.bmstatic.com/iu/ic-subs-audio-e009bea5d93ce20b099b95fd8247e1e1.png"
+        },
+        {
+          "label": "podcasts",
+          "url": "https://a.bmstatic.com/iu/ic-subs-podcasts-6d6df2803a2717ec9c885ac4c01e89a0.png"
+        }
+      ],
+      "description": "Доступ ко всем книгам, комиксам и аудиокнигам на Букмейте",
+      "trial": true,
+      "discount_percent": null,
+      "price_comment": null,
+      "price": 49900,
+      "currency": "RUB",
+      "duration": "1_month",
+      "buttons": [
+        {
+          "text": "7 дней бесплатно",
+          "text_color": "#FFFFFF",
+          "background_color": "#4CD180",
+          "comment": "Дальше - 499 ₽ в месяц",
+          "comment_color": "#EEEEEE",
+          "plans": [
+            {
+              "id": "stripe_1_month_master_trial_ru_231118",
+              "system": "cards",
+              "duration": "1_month",
+              "trial": true,
+              "prepay_text": "Попробуйте читать и слушать Букмейт бесплатно 7 дней, чтобы понять, нравится ли он вам. Премиум подписка открывает доступ ко всем книгам, комиксам и аудиокнигам на Букмейте.<br>Через 7 дней подписка продлится автоматически — за 499 ₽ в месяц. Отменить автопродление можно в любой момент в профиле на сайте или в приложении. Никаких платежей до окончания пробного периода 21 декабря 2018 года",
+              "price": 49900,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "master",
+              "analytics": {
+                "control": "subscribe_master_1_month",
+                "object_type": "subscription",
+                "object_id": "trial_cards",
+                "process_data": {
+                  "sub_type": "master",
+                  "duration": "1_month",
+                  "payment_method": "trial_cards",
+                  "plan_id": "stripe_1_month_master_trial_ru_231118"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "1 год - 4990 ₽",
+          "text_color": "#5384F5",
+          "background_color": "#ECF0FE",
+          "comment": "",
+          "comment_color": "#EEEEEE",
+          "plans": [
+            {
+              "id": "stripe_1_month_year_ru_231118",
+              "system": "cards",
+              "duration": "1_year",
+              "trial": false,
+              "prepay_text": "Вы собираетесь оплатить премиум на 1 год стоимостью 4990 ₽.<br>После окончания периода подписка продлится автоматически.",
+              "price": 499000,
+              "currency": "RUB",
+              "discount_percent": 17,
+              "kind": "master",
+              "analytics": {
+                "control": "subscribe_master_1_year",
+                "object_type": "subscription",
+                "object_id": "cards",
+                "process_data": {
+                  "sub_type": "master",
+                  "duration": "1_year",
+                  "payment_method": "cards",
+                  "plan_id": "stripe_1_month_year_ru_231118"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premium",
+      "title": "Оплата книжной подписки на Букмейт",
+      "label": {
+        "text": "Книги",
+        "color": "#4264FD"
+      },
+      "icons": [
+        {
+          "label": "books",
+          "url": "https://a.bmstatic.com/iu/ic-subs-books-2dce6f8816080b1a4626099d29337ce8.png"
+        },
+        {
+          "label": "comicbooks",
+          "url": "https://a.bmstatic.com/iu/ic-subs-comics-67d5ff78650e8d672cda888fd2d25513.png"
+        }
+      ],
+      "description": "Доступ ко всем книгам и комиксам на Букмейте",
+      "trial": true,
+      "discount_percent": 7,
+      "price_comment": "При оплате за год",
+      "price": 37400,
+      "currency": "RUB",
+      "duration": "1_month",
+      "buttons": [
+        {
+          "text": "7 дней бесплатно",
+          "text_color": "#FFFFFF",
+          "background_color": "#4CD180",
+          "comment": "Дальше - 346 ₽ в месяц",
+          "comment_color": "#EEEEEE",
+          "plans": [
+            {
+              "id": "stripe_1_month_premium_trial_ru_31012018",
+              "system": "cards",
+              "duration": "1_month",
+              "trial": true,
+              "prepay_text": "Попробуйте читать Букмейт бесплатно 7 дней, чтобы понять, нравится ли он вам. Аудиоподписка открывает доступ ко всем аудиокнигам Букмейта.<br>Через 7 дней подписка продлится автоматически — за 399 ₽ в месяц. Отменить автопродление можно в любой момент в профиле на сайте или в приложении. Никаких платежей до окончания пробного периода 21 декабря 2018 года",
+              "price": 39900,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "premium",
+              "analytics": {
+                "control": "subscribe_premium_1_month",
+                "object_type": "subscription",
+                "object_id": "trial_cards",
+                "process_data": {
+                  "sub_type": "premium",
+                  "duration": "1_month",
+                  "payment_method": "trial_cards",
+                  "plan_id": "stripe_1_month_premium_trial_ru_31012018"
+                }
+              }
+            },
+            {
+              "id": "bookmate_1month_trial_books_premium_260618",
+              "system": "google_play",
+              "duration": "1_month",
+              "trial": true,
+              "prepay_text": null,
+              "price": 34600,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "premium",
+              "analytics": {
+                "control": "subscribe_premium_1_month",
+                "object_type": "subscription",
+                "object_id": "trial_google_play",
+                "process_data": {
+                  "sub_type": "premium",
+                  "duration": "1_month",
+                  "payment_method": "trial_google_play",
+                  "plan_id": "bookmate_1month_trial_books_premium_260618"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "1 год - 4490 ₽",
+          "text_color": "#5384F5",
+          "background_color": "#ECF0FE",
+          "comment": "",
+          "comment_color": "#EEEEEE",
+          "plans": [
+            {
+              "id": "stripe_1_year_premium_ru_20170810",
+              "system": "cards",
+              "duration": "1_year",
+              "trial": false,
+              "prepay_text": "Вы собираетесь оплатить подписку на книги стоимостью 4490 ₽ на 1 год.<br>После окончания периода подписка продлится автоматически.",
+              "price": 449000,
+              "currency": "RUB",
+              "discount_percent": 7,
+              "kind": "premium",
+              "analytics": {
+                "control": "subscribe_premium_1_year",
+                "object_type": "subscription",
+                "object_id": "cards",
+                "process_data": {
+                  "sub_type": "premium",
+                  "duration": "1_year",
+                  "payment_method": "cards",
+                  "plan_id": "stripe_1_year_premium_ru_20170810"
+                }
+              }
+            },
+            {
+              "id": "bookmate_reader_1year_books_premium_recurrent_171017",
+              "system": "google_play",
+              "duration": "1_year",
+              "trial": false,
+              "prepay_text": null,
+              "price": 449000,
+              "currency": "RUB",
+              "discount_percent": 7,
+              "kind": "premium",
+              "analytics": {
+                "control": "subscribe_premium_1_year",
+                "object_type": "subscription",
+                "object_id": "google_play",
+                "process_data": {
+                  "sub_type": "premium",
+                  "duration": "1_year",
+                  "payment_method": "google_play",
+                  "plan_id": "bookmate_reader_1year_books_premium_recurrent_171017"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "title": "Оплата аудиоподписки на Букмейт",
+      "label": {
+        "text": "Аудио",
+        "color": "#F3A536"
+      },
+      "icons": [
+        {
+          "label": "audiobooks",
+          "url": "https://a.bmstatic.com/iu/ic-subs-audio-e009bea5d93ce20b099b95fd8247e1e1.png"
+        },
+        {
+          "label": "podcasts",
+          "url": "https://a.bmstatic.com/iu/ic-subs-podcasts-6d6df2803a2717ec9c885ac4c01e89a0.png"
+        }
+      ],
+      "description": "Доступ ко всем аудиокнигам на Букмейте",
+      "trial": false,
+      "discount_percent": null,
+      "price_comment": null,
+      "price": 45900,
+      "currency": "RUB",
+      "duration": "1_month",
+      "buttons": [
+        {
+          "text": "1 месяц - 459 ₽",
+          "text_color": "#FFFFFF",
+          "background_color": "#426BF2",
+          "comment": "",
+          "comment_color": "#EEEEEE",
+          "plans": [
+            {
+              "id": "stripe_1_month_cards_audio_ru",
+              "system": "cards",
+              "duration": "1_month",
+              "trial": false,
+              "prepay_text": "Вы собираетесь оплатить аудиоподписку на 1 месяц стоимостью 459 ₽.<br>После окончания периода подписка продлится автоматически.",
+              "price": 45900,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "audio",
+              "analytics": {
+                "control": "subscribe_audio_1_month",
+                "object_type": "subscription",
+                "object_id": "cards",
+                "process_data": {
+                  "sub_type": "audio",
+                  "duration": "1_month",
+                  "payment_method": "cards",
+                  "plan_id": "stripe_1_month_cards_audio_ru"
+                }
+              }
+            },
+            {
+              "id": "bookmate_month_audio_01062018",
+              "system": "google_play",
+              "duration": "1_month",
+              "trial": false,
+              "prepay_text": null,
+              "price": 45900,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "audio",
+              "analytics": {
+                "control": "subscribe_audio_1_month",
+                "object_type": "subscription",
+                "object_id": "google_play",
+                "process_data": {
+                  "sub_type": "audio",
+                  "duration": "1_month",
+                  "payment_method": "google_play",
+                  "plan_id": "bookmate_month_audio_01062018"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "1 год - 4590 ₽",
+          "text_color": "#5384F5",
+          "background_color": "#ECF0FE",
+          "comment": "",
+          "comment_color": "#EEEEEE",
+          "plans": [
+            {
+              "id": "stripe_1_year_cards_audio_ru",
+              "system": "cards",
+              "duration": "1_year",
+              "trial": false,
+              "prepay_text": "Вы собираетесь оплатить аудиоподписку на 1 год стоимостью 5490 ₽.<br>После окончания периода подписка продлится автоматически.",
+              "price": 549000,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "audio",
+              "analytics": {
+                "control": "subscribe_audio_1_year",
+                "object_type": "subscription",
+                "object_id": "cards",
+                "process_data": {
+                  "sub_type": "audio",
+                  "duration": "1_year",
+                  "payment_method": "cards",
+                  "plan_id": "stripe_1_year_cards_audio_ru"
+                }
+              }
+            },
+            {
+              "id": "bookmate_year_audio_01062018",
+              "system": "google_play",
+              "duration": "1_year",
+              "trial": false,
+              "prepay_text": null,
+              "price": 459000,
+              "currency": "RUB",
+              "discount_percent": null,
+              "kind": "audio",
+              "analytics": {
+                "control": "subscribe_audio_1_year",
+                "object_type": "subscription",
+                "object_id": "google_play",
+                "process_data": {
+                  "sub_type": "audio",
+                  "duration": "1_year",
+                  "payment_method": "google_play",
+                  "plan_id": "bookmate_year_audio_01062018"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

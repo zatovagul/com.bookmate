@@ -1,0 +1,52 @@
+{
+  "access_levels": {
+    "expiration_dates": [
+      {
+        "level": "default",
+        "expires_at": 1575555079
+      },
+      {
+        "level": "premium",
+        "expires_at": 1575555079
+      }
+    ],
+    "active_recurrents": [
+      {
+        "access_to": [
+          "default",
+          "premium"
+        ],
+        "system": "cards"
+      }
+    ],
+    "labels": [
+      {
+        "text": "Premium",
+        "color": "#4264FD"
+      }
+    ],
+    "trial_availability": [
+      {
+        "level": "default",
+        "available": true
+      },
+      {
+        "level": "premium",
+        "available": true
+      },
+      {
+        "level": "limited_audio",
+        "available": true
+      },
+      {
+        "level": "audio",
+        "available": true
+      }
+    ],
+    "content_limits": {
+      "maximum": 5,
+      "used": 2,
+      "current_cycle": "af35vfd"
+    }
+  }
+}

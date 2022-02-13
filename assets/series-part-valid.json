@@ -1,0 +1,386 @@
+{
+  "parts": [
+    {
+      "position": 1,
+      "position_label": "1",
+      "resource": {
+        "annotation": "Игорь Гром – опытный следователь из Санкт Петербурга, известный своим пробивным характером и непримиримой позицией по отношению к преступникам всех мастей. Неимоверная сила, аналитический склад ума и неподкупность – всё это делает майора Грома идеальным полицейским. Работая не покладая рук, он всегда доводит начатое до конца и никогда не пасует перед проблемами, стоящими на пути. \r\n\t\t\r\n\t\t                      Но когда в городе появляется маньяк в маске чумного доктора из средневековья, Игорь Гром впервые сталкивается с трудностями в поиске преступника. Следователю придётся использовать все свои навыки и умения, чтобы вычислить неуловимого убийцу и вступить в схватку с воплощением идейного зла...",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          },
+          {
+            "name": "Евгений Федотов",
+            "locale": "ru",
+            "uuid": "wUZRcWef",
+            "works_count": 15
+          }
+        ],
+        "bookshelves_count": 34,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/ca/c1/2b27b6a524b90962d37e9560c32b8587-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/ca/c1/2b27b6a524b90962d37e9560c32b8587-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFMSYgrpGJiGxoJBUQOC8ooYZ/e19bJRgSJxUTZj40PBYNHw0JWSEUUyccQh8ZLBAM////0vabvQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM2OjM5KzAzOjAwforngQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNjozOSswMzowMA/XXz0AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 17,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 180,
+        "readers_count": 545,
+        "title": "Майор Гром. Том 1: Чумной Доктор. Часть 1",
+        "uuid": "I1l8BwOg"
+      },
+      "resource_type": "comicbook",
+      "uuid": "SXbpzHO3"
+    },
+    {
+      "position": 2,
+      "position_label": "2",
+      "resource": {
+        "annotation": "Игорь Гром вычислил маньяка, скрывающегося под маской Чумного Доктора! Им оказался самый популярный человек в России – компьютерный гений и основатель социальной сети «Вместе» Сергей Разумовский. Охота на злодея переходит на новый этап: Чумной Доктор сбегает от правосудия, и теперь майору Грому необходимо во что бы то ни стало отыскать Разумовского, пока тот не возглавил новое революционное движение и не поставил на колени всю страну…",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          },
+          {
+            "name": "Евгений Федотов",
+            "locale": "ru",
+            "uuid": "wUZRcWef",
+            "works_count": 15
+          }
+        ],
+        "bookshelves_count": 19,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/b4/5b/6e6ef08822d47176779cb5403b2aa758-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/b4/5b/6e6ef08822d47176779cb5403b2aa758-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFOjhFVFxfZmluQD1IZFpbUkZIU09OTlBfSzg6WiwuLhoZNSYhRz1FJiAiJRwdOzA+////Jbd2IgAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM3OjA5KzAzOjAwH8eLXAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNzowOSswMzowMG6aM+AAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 4,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 156,
+        "readers_count": 219,
+        "title": "Майор Гром. Том 2: Чумной Доктор. Часть 2",
+        "uuid": "at8jE8JZ"
+      },
+      "resource_type": "comicbook",
+      "uuid": "UbzSES9S"
+    },
+    {
+      "position": 3,
+      "position_label": "3",
+      "resource": {
+        "annotation": "Завершив громкое дело «Чумного Доктора», питерский следователь Игорь Гром отправляется в заслуженный отпуск вместе со своей девушкой, журналисткой Юлей Пчёлкиной. Пара летит в Дублин, где близится канун национального ирландского праздника – Дня святого Патрика. Однако вскоре Юля пропадает, и, чтобы найти её, майору Грому приходится начать, возможно, самое опасное расследование в своей жизни, в ходе которого ему предстоит столкнуться с крупнейшей преступной группировкой в Европе – «Детьми Святого Патрика»!",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          },
+          {
+            "name": "Иван Скороходов",
+            "locale": "ru",
+            "uuid": "W2FgNJw3",
+            "works_count": 2
+          }
+        ],
+        "bookshelves_count": 18,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/28/e0/3529ea2e8aeccbad55e047df66859079-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/28/e0/3529ea2e8aeccbad55e047df66859079-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFZX81mqyWso+JwEQeZJcyR2VJl2Je0VEqY5Iycodmq31uyU8oUTYZkFQyqE0yjigS////fW9L5AAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM3OjE4KzAzOjAwdRqAdgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNzoxOCswMzowMARHOMoAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 4,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 208,
+        "readers_count": 237,
+        "title": "Майор Гром. Том 3: День Святого Патрика",
+        "uuid": "yAin5H0T"
+      },
+      "resource_type": "comicbook",
+      "uuid": "dCuFzPwB"
+    },
+    {
+      "position": 4,
+      "position_label": "4",
+      "resource": {
+        "annotation": "В Санкт\u00ad-Петербурге совершено самое дерзкое ограбление за всю историю города! Средь бела дня три вооружённые девушки в масках диснеевских принцесс врываются в банк и уносят оттуда всю наличность, скрывшись на шикарном белом кабриолете. Майор Игорь Гром берётся за расследование дела, способного поставить в тупик даже самого опытного следователя…",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          },
+          {
+            "name": "Евгений Федотов",
+            "locale": "ru",
+            "uuid": "wUZRcWef",
+            "works_count": 15
+          }
+        ],
+        "bookshelves_count": 12,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/38/84/b50cc7c778e719210abfc15746a423d4-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/38/84/b50cc7c778e719210abfc15746a423d4-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFgG1cTE1Sj3JizJdvuI1rfVY5fFM3pIVplndbUD0vak88qp6IuGZAVCQWX0M3xIpl////OhpobQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM3OjM1KzAzOjAwVujmywAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNzozNSswMzowMCe1XncAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 2,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 183,
+        "readers_count": 160,
+        "title": "Майор Гром. Том 4: Как в сказке",
+        "uuid": "ErDVPvQf"
+      },
+      "resource_type": "comicbook",
+      "uuid": "f7ndy9Mh"
+    },
+    {
+      "position": 5,
+      "position_label": "5",
+      "resource": {
+        "annotation": "Жизнь майора Игоря Грома практически идеальна: он блестяще раскрыл множество запутанных преступлений и даже победил международных террористов, а рядом с ним любимая девушка и верные друзья. Однако скоро этой идиллии наступит конец: из тюрьмы сбегает Сергей Разумовский — маньяк и революционер, скрывавшийся под маской Чумного Доктора. Он долго вынашивал изощрённый план мести поймавшему его Грому и наконец готов начать смертельную игру…",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          }
+        ],
+        "bookshelves_count": 12,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/05/75/c0d6b4676cf38f23ad9cb746d96d0ab8-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/05/75/c0d6b4676cf38f23ad9cb746d96d0ab8-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFgUY0imhfkG5lh1dDVjMtLjAvhVRGdTUpd1BJYjwzfT0xbDs3YUo6Sy8rTjUuZ0s/////FYO/1gAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM2OjM2KzAzOjAwiMKXaAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNjozNiswMzowMPmfL9QAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 1,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 240,
+        "readers_count": 157,
+        "title": "Майор Гром. Том 5: Игра",
+        "uuid": "Q0D0grc7"
+      },
+      "resource_type": "comicbook",
+      "uuid": "LqEup41y"
+    },
+    {
+      "position": 6,
+      "position_label": "6",
+      "resource": {
+        "annotation": "Последнее противостояние Игоря Грома и Сергея Разумовского навсегда изменило жизнь доблестного полицейского. Вот уже полгода майор пытается выйти из затянувшейся депрессии, и наконец ему выпадает новый шанс проявить свои невероятные навыки — раскрыть дело о массовом похищении детей. Игорь даже не подозревает, что это обычное с виду расследование приведёт его к невероятному открытию, находящемуся за гранью привычного ему мира…",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          }
+        ],
+        "bookshelves_count": 13,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/98/a2/5276247202d5d1d715213cb9fe237994-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/98/a2/5276247202d5d1d715213cb9fe237994-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFUTwng2VajG9hTTglVEIupm85d000QTAgRDEifEIdYzYjRS8iNhgOSRcQRBkSQB4U////nYOtvwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM3OjAzKzAzOjAwu7fUEgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNzowMyswMzowMMrqbK4AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 1,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 107,
+        "readers_count": 166,
+        "title": "Майор Гром. Том 6: Голоса",
+        "uuid": "k7eX8Y3O"
+      },
+      "resource_type": "comicbook",
+      "uuid": "aWy9QcY1"
+    },
+    {
+      "position": 7,
+      "position_label": "7",
+      "resource": {
+        "annotation": "Игорь Гром – опытный следователь из Санкт-Петербурга, известный своим пробивным характером и непримиримой позицией по отношению к преступникам всех мастей. Но даже в жизни идеального полицейского всё бывает не так гладко. В результате противостояния с маньяком Сергеем Разумовским Игорь теряет множество близких людей… Страшно переживая случившееся, Гром всё глубже погружается в пучину депрессии, пока, наконец, не принимает поворотное решение – раз и навсегда покончить с Разумовским… \n\n          Ника Чайкина по прозвищу «Красная Фурия» состоит на службе в «МАК» – секретной организации, занимающейся предотвращением военных угроз по всему миру. Вместе с командой верных друзей она противостоит всевозможным врагам – от неонацистов «Чёрной Луны» до адептов коварного «Братства Воров». Но когда в Сибири появляется «мёртвая зона», созданная возрождённым древним Богом-Вороном Кутхом, Красной Фурии и её напарникам приходится столкнуться с, возможно, самым опасным врагом за всю их карьеру… \n\n          Наступает время Ворона, и герои должны объединиться, чтобы спасти мир от страшной участи. Лишь вместе майор Гром и Красная Фурия смогут остановить армии Кутха и защитить человечество, но какую цену им придётся заплатить, чтобы выполнить эту миссию?",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          }
+        ],
+        "bookshelves_count": 11,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/f7/01/541bf5d91790919f6bfbeb2f4457b8c0-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/f7/01/541bf5d91790919f6bfbeb2f4457b8c0-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFxnI0mFdTsHRanEAXxo9WvmxHv4xdxIQ8u3VEeTorb0c7nXJIgTAdXSIcKhYVUyMZ////khS0UAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM2OjQzKzAzOjAw0D+x1gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNjo0MyswMzowMKFiCWoAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 1,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 210,
+        "readers_count": 142,
+        "title": "Майор Гром и Красная Фурия. Том 7: В сердце тьмы",
+        "uuid": "pfo5RyUX"
+      },
+      "resource_type": "comicbook",
+      "uuid": "ESgAU4uX"
+    },
+    {
+      "position": 8,
+      "position_label": "8",
+      "resource": {
+        "annotation": "Игорь Гром отказывается от идеи мести и решает начать жизнь с чистого листа. Но прошлое в виде кошмаров и галлюцинаций постоянно напоминает о себе, и Игорю приходится то и дело прибегать к помощи таблеток, чтобы держаться на плаву. \r\n\r\n                              А тем временем в Санкт-Петербурге творятся страшные вещи: в центре происходит серия таинственных ритуальных убийств рядом со статуями сфинксов, а окраины города накрывает волной наркотика нового поколения. Майор Гром берётся за новое дело, которое с большой вероятностью может стать для него последним...",
+        "authors": [
+          {
+            "name": "Артём Габрелянов",
+            "locale": "ru",
+            "uuid": "N3ulwd1H",
+            "works_count": 25
+          },
+          {
+            "name": "Роман Котков",
+            "locale": "ru",
+            "uuid": "GI8zPcfX",
+            "works_count": 9
+          }
+        ],
+        "bookshelves_count": 12,
+        "can_be_read": true,
+        "comic_card": null,
+        "access_restrictions": [
+          {
+            "level": "premium"
+          }
+        ],
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/41/70/f948a3c27823ffcccd3f42e2f8fb4abc-large.jpg",
+          "small": "https://assets1.bmstatic.com/assets/comicbooks-covers-fingerprint/41/70/f948a3c27823ffcccd3f42e2f8fb4abc-small.jpg",
+          "ratio": 0.654,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFy5yW2IuF1Id/vpOM2aympW9tun97x5yWpouEa29uoZGS1q+qNyghRT8/SkVCc2Fd////Efiq0wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTIyVDE4OjM2OjU5KzAzOjAwuOXuBgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0yMlQxODozNjo1OSswMzowMMm4VroAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "impressions_count": 3,
+        "labels": [
+          {
+            "text": "Books",
+            "color": "#4264FD"
+          }
+        ],
+        "language": "ru",
+        "orientation": "portrait",
+        "pages_count": 238,
+        "readers_count": 226,
+        "title": "Майор Гром. Том 8: Последнее дело",
+        "uuid": "sLEuFvwJ"
+      },
+      "resource_type": "comicbook",
+      "uuid": "YQdtR11r"
+    }
+  ]
+}

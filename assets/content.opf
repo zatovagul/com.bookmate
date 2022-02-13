@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+    <dc:title>Rent personligt</dc:title>
+    <dc:language>da</dc:language>
+    <dc:language>en</dc:language>
+    <meta content="Adobe InDesign 10.2" name="generator" />
+    <meta name="cover" content="DK-Rent-personligt_1400px-publizon.png" />
+    <meta content="0.5.3" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Text/Rent_personligt_ebook.xhtml" id="Rent_personligt_ebook" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-1.xhtml" id="Rent_personligt_ebook-1" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-2.xhtml" id="Rent_personligt_ebook-2" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-3.xhtml" id="Rent_personligt_ebook-3" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-4.xhtml" id="Rent_personligt_ebook-4" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-5.xhtml" id="Rent_personligt_ebook-5" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-6.xhtml" id="Rent_personligt_ebook-6" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-7.xhtml" id="Rent_personligt_ebook-7" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-8.xhtml" id="Rent_personligt_ebook-8" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-9.xhtml" id="Rent_personligt_ebook-9" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-10.xhtml" id="Rent_personligt_ebook-10" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-11.xhtml" id="Rent_personligt_ebook-11" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-12.xhtml" id="Rent_personligt_ebook-12" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-13.xhtml" id="Rent_personligt_ebook-13" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-14.xhtml" id="Rent_personligt_ebook-14" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-15.xhtml" id="Rent_personligt_ebook-15" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-16.xhtml" id="Rent_personligt_ebook-16" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-17.xhtml" id="Rent_personligt_ebook-17" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-18.xhtml" id="Rent_personligt_ebook-18" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-19.xhtml" id="Rent_personligt_ebook-19" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-20.xhtml" id="Rent_personligt_ebook-20" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-21.xhtml" id="Rent_personligt_ebook-21" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-22.xhtml" id="Rent_personligt_ebook-22" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-23.xhtml" id="Rent_personligt_ebook-23" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-24.xhtml" id="Rent_personligt_ebook-24" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-25.xhtml" id="Rent_personligt_ebook-25" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-26.xhtml" id="Rent_personligt_ebook-26" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-27.xhtml" id="Rent_personligt_ebook-27" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-28.xhtml" id="Rent_personligt_ebook-28" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-29.xhtml" id="Rent_personligt_ebook-29" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-30.xhtml" id="Rent_personligt_ebook-30" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-31.xhtml" id="Rent_personligt_ebook-31" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-32.xhtml" id="Rent_personligt_ebook-32" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-33.xhtml" id="Rent_personligt_ebook-33" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-34.xhtml" id="Rent_personligt_ebook-34" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-35.xhtml" id="Rent_personligt_ebook-35" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-36.xhtml" id="Rent_personligt_ebook-36" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-37.xhtml" id="Rent_personligt_ebook-37" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-38.xhtml" id="Rent_personligt_ebook-38" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-39.xhtml" id="Rent_personligt_ebook-39" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-40.xhtml" id="Rent_personligt_ebook-40" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-41.xhtml" id="Rent_personligt_ebook-41" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-42.xhtml" id="Rent_personligt_ebook-42" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-43.xhtml" id="Rent_personligt_ebook-43" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-44.xhtml" id="Rent_personligt_ebook-44" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-45.xhtml" id="Rent_personligt_ebook-45" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-46.xhtml" id="Rent_personligt_ebook-46" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-47.xhtml" id="Rent_personligt_ebook-47" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-48.xhtml" id="Rent_personligt_ebook-48" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-49.xhtml" id="Rent_personligt_ebook-49" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-50.xhtml" id="Rent_personligt_ebook-50" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-51.xhtml" id="Rent_personligt_ebook-51" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-52.xhtml" id="Rent_personligt_ebook-52" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-53.xhtml" id="Rent_personligt_ebook-53" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-54.xhtml" id="Rent_personligt_ebook-54" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-55.xhtml" id="Rent_personligt_ebook-55" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-56.xhtml" id="Rent_personligt_ebook-56" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-57.xhtml" id="Rent_personligt_ebook-57" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-58.xhtml" id="Rent_personligt_ebook-58" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-59.xhtml" id="Rent_personligt_ebook-59" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-60.xhtml" id="Rent_personligt_ebook-60" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-61.xhtml" id="Rent_personligt_ebook-61" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-62.xhtml" id="Rent_personligt_ebook-62" media-type="application/xhtml+xml" />
+    <item href="Text/Rent_personligt_ebook-63.xhtml" id="Rent_personligt_ebook-63" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css" />
+    <item href="Fonts/Cambria-Bold.ttf" id="Cambria-Bold.ttf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/DroidSerif-Bold.ttf" id="DroidSerif-Bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/DroidSerif-Italic.ttf" id="DroidSerif-Italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/DroidSerif.ttf" id="DroidSerif.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/Verdana.ttf" id="Verdana.ttf" media-type="application/vnd.ms-opentype" />
+    <item href="Images/DK-Rent-personligt_1400px-publizon.png" id="DK-Rent-personligt_1400px-publizon.png" media-type="image/png" />
+    <item href="Images/kommendeNY.jpg" id="kommendeNY.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Rent_personligt_ebook" />
+    <itemref idref="Rent_personligt_ebook-1" />
+    <itemref idref="Rent_personligt_ebook-2" />
+    <itemref idref="Rent_personligt_ebook-3" />
+    <itemref idref="Rent_personligt_ebook-4" />
+    <itemref idref="Rent_personligt_ebook-5" />
+    <itemref idref="Rent_personligt_ebook-6" />
+    <itemref idref="Rent_personligt_ebook-7" />
+    <itemref idref="Rent_personligt_ebook-8" />
+    <itemref idref="Rent_personligt_ebook-9" />
+    <itemref idref="Rent_personligt_ebook-10" />
+    <itemref idref="Rent_personligt_ebook-11" />
+    <itemref idref="Rent_personligt_ebook-12" />
+    <itemref idref="Rent_personligt_ebook-13" />
+    <itemref idref="Rent_personligt_ebook-14" />
+    <itemref idref="Rent_personligt_ebook-15" />
+    <itemref idref="Rent_personligt_ebook-16" />
+    <itemref idref="Rent_personligt_ebook-17" />
+    <itemref idref="Rent_personligt_ebook-18" />
+    <itemref idref="Rent_personligt_ebook-19" />
+    <itemref idref="Rent_personligt_ebook-20" />
+    <itemref idref="Rent_personligt_ebook-21" />
+    <itemref idref="Rent_personligt_ebook-22" />
+    <itemref idref="Rent_personligt_ebook-23" />
+    <itemref idref="Rent_personligt_ebook-24" />
+    <itemref idref="Rent_personligt_ebook-25" />
+    <itemref idref="Rent_personligt_ebook-26" />
+    <itemref idref="Rent_personligt_ebook-27" />
+    <itemref idref="Rent_personligt_ebook-28" />
+    <itemref idref="Rent_personligt_ebook-29" />
+    <itemref idref="Rent_personligt_ebook-30" />
+    <itemref idref="Rent_personligt_ebook-31" />
+    <itemref idref="Rent_personligt_ebook-32" />
+    <itemref idref="Rent_personligt_ebook-33" />
+    <itemref idref="Rent_personligt_ebook-34" />
+    <itemref idref="Rent_personligt_ebook-35" />
+    <itemref idref="Rent_personligt_ebook-36" />
+    <itemref idref="Rent_personligt_ebook-37" />
+    <itemref idref="Rent_personligt_ebook-38" />
+    <itemref idref="Rent_personligt_ebook-39" />
+    <itemref idref="Rent_personligt_ebook-40" />
+    <itemref idref="Rent_personligt_ebook-41" />
+    <itemref idref="Rent_personligt_ebook-42" />
+    <itemref idref="Rent_personligt_ebook-43" />
+    <itemref idref="Rent_personligt_ebook-44" />
+    <itemref idref="Rent_personligt_ebook-45" />
+    <itemref idref="Rent_personligt_ebook-46" />
+    <itemref idref="Rent_personligt_ebook-47" />
+    <itemref idref="Rent_personligt_ebook-48" />
+    <itemref idref="Rent_personligt_ebook-49" />
+    <itemref idref="Rent_personligt_ebook-50" />
+    <itemref idref="Rent_personligt_ebook-51" />
+    <itemref idref="Rent_personligt_ebook-52" />
+    <itemref idref="Rent_personligt_ebook-53" />
+    <itemref idref="Rent_personligt_ebook-54" />
+    <itemref idref="Rent_personligt_ebook-55" />
+    <itemref idref="Rent_personligt_ebook-56" />
+    <itemref idref="Rent_personligt_ebook-57" />
+    <itemref idref="Rent_personligt_ebook-58" />
+    <itemref idref="Rent_personligt_ebook-59" />
+    <itemref idref="Rent_personligt_ebook-60" />
+    <itemref idref="Rent_personligt_ebook-61" />
+    <itemref idref="Rent_personligt_ebook-62" />
+    <itemref idref="Rent_personligt_ebook-63" />
+  </spine>
+  <guide>
+    <reference href="Text/Rent_personligt_ebook.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

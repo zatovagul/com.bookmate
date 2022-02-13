@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "library_card": null,
+      "annotation": "Домна — крепостная крестьянка. Хоуп — чернокожая рабыня на американской плантации. Их судьбы невероятным образом пересекаются, и при встрече героини понимают, что могут… поменяться кожей. Но оправдаются ли их надежды на лучшую жизнь? Новый книжный сериал Евгении Некрасовой — немыслимая и смелая история женской борьбы за свободу и собственную идентичность.\r\nНовые эпизоды «Кожи» будут выходить раз в неделю — как текст и как аудио. Читает актриса «Мастерской Брусникина» Анастасия Великородная. Музыка — АИГЕЛ.",
+      "authors": "Евгения Некрасова",
+      "authors_objects": [
+        {
+          "name": "Евгения Некрасова",
+          "locale": "ru",
+          "uuid": "rvtIEA2W",
+          "works_count": 18,
+          "image": {
+            "small": "https://assets1.bmstatic.com/assets/meta_authors-images/dc/1b/profile-83fe5af4677cc5edb435441727a0c624.jpg",
+            "large": "https://assets1.bmstatic.com/assets/meta_authors-images/dc/1b/profile-83fe5af4677cc5edb435441727a0c624.jpg",
+            "placeholder": null
+          }
+        }
+      ],
+      "cover": {
+        "large": "https://assets1.bmstatic.com/assets/books-covers/42/ed/yce1DEl5-ipad.jpeg?ts=1622118899",
+        "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAAMFBMVEWrg2emoZqAhYducnCIgnW2o5KEdGpjSj+Ke265qZpeYV9zWUxldm+lgWtpQTNRZGd9A9idAAAAFElEQVQI12NgVGZwTWfoXM1w9j0ADlADwdHmvQEAAAAASUVORK5CYII=",
+        "ratio": 0.652,
+        "small": "https://assets1.bmstatic.com/assets/books-covers/42/ed/yce1DEl5-thumb.jpeg?ts=1622118899",
+        "background_color_hex": "#75948D"
+      },
+      "language": "ru",
+      "paper_pages": 0,
+      "restricted_reading_on_web": false,
+      "title": "Кожа",
+      "uuid": "yce1DEl5",
+      "type": "Book",
+      "source_type": "serial",
+      "publication_date": null,
+      "owner_catalog_title": null,
+      "original_year": 2021,
+      "bookshelves_count": 46,
+      "impressions_count": 28,
+      "quotes_count": 138,
+      "readers_count": 1898,
+      "can_be_read": true,
+      "in_library": false,
+      "in_wishlist": false,
+      "labels": [
+        {
+          "title": "Premium",
+          "kind": "premium"
+        }
+      ],
+      "episodes_count": 10,
+      "notifications_enabled": false,
+      "state": "completed",
+      "subscription_level": "premium"
+    }
+  ]
+}

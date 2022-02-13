@@ -1,0 +1,1104 @@
+{
+  "quotes": [
+    {
+      "uuid": "Hz3uOa1k",
+      "content": "чиновного князя Василия",
+      "comment": null,
+      "created_at": 1502275195,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 2,
+      "style": "highlight",
+      "start_node_xpath": "p[2]/text()[1]",
+      "finish_node_xpath": "p[2]/text()[1]",
+      "start_node_offset": 135,
+      "finish_node_offset": 157,
+      "cfi": "/6/18!/,/2/4/8/1:134,/2/4/8/1:157",
+      "changes_count": 7114,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "zxbRM9lX",
+      "content": "plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens, que si vous ne me",
+      "comment": null,
+      "created_at": 1502275187,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[1]/text()[1]",
+      "finish_node_xpath": "p[1]/text()[1]",
+      "start_node_offset": 49,
+      "finish_node_offset": 151,
+      "cfi": "/6/18!/,/2/4/6/1:48,/2/4/6/1:151",
+      "changes_count": 7112,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "jsMPhXAY",
+      "content": "говорила в июле 1805 года известная Анна Павловна Шерер, фрейлина и приближенная",
+      "comment": null,
+      "created_at": 1502275093,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 3,
+      "style": "highlight",
+      "start_node_xpath": "p[2]/text()[1]",
+      "finish_node_xpath": "p[2]/text()[1]",
+      "start_node_offset": 5,
+      "finish_node_offset": 84,
+      "cfi": "/6/18!/,/2/4/8/1:4,/2/4/8/1:84",
+      "changes_count": 7109,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "uR9OomW4",
+      "content": "les atrocités de cet Antichrist (ma parole, j’y crois) — je ne vous connais plus, vous n",
+      "comment": null,
+      "created_at": 1502275078,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 4,
+      "style": "highlight",
+      "start_node_xpath": "p[1]/text()[1]",
+      "finish_node_xpath": "p[1]/text()[1]",
+      "start_node_offset": 259,
+      "finish_node_offset": 346,
+      "cfi": "/6/18!/,/2/4/6/1:258,/2/4/6/1:346",
+      "changes_count": 7107,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "lvXcH4N9",
+      "content": "англичанах",
+      "comment": null,
+      "created_at": 1502273128,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[6]/text()[1]",
+      "finish_node_xpath": "p[6]/text()[1]",
+      "start_node_offset": 406,
+      "finish_node_offset": 415,
+      "cfi": "/6/2!/,/2/4/14/1:405,/2/4/14/1:415",
+      "changes_count": 7100,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "vyOVLiqa",
+        "title": "Фрегат «Паллада»",
+        "authors": "Иван Гончаров",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-ipad.jpg?1491822080",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-thumb.jpg?1491822080",
+          "ratio": 0.66,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQUtvZW+TYmuSRE10RU9zanSYanOaTVZ9RlB0W2WJWWKJR1B3Q01xTFZ6SVJ5Q0xz////S4UQngAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTEwVDE0OjAxOjI0KzAzOjAwZ8XLcAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0xMFQxNDowMToyNCswMzowMBaYc8wAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Фрегат «Паллада». Произведение было впервые опубликовано в середине 50-х годов прошлого века. В основу его легли впечатления от экспедиции на военном фрегате «Паллада» в 1852–1855 гг. к берегам Японии с дипломатическими целями. Очерковый цикл представляет собой блестящий образец русской прозы, в котором в полной мере раскрывается мастерство И. А. Гончарова — художника, психолога, бытописателя.",
+        "paper_pages": 983,
+        "quotes_count": 270,
+        "readers_count": 856,
+        "impressions_count": 1,
+        "bookshelves_count": 24,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "PD5YVG09",
+      "content": "— Я думаю, — сказал князь улыбаясь, — что ежели бы вас послали вместо нашего милого Винценгероде, вы бы взяли приступом согласие прусского короля. Вы так красноречивы. Вы дадите мне чаю?",
+      "comment": null,
+      "created_at": 1501870809,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[17]/text()[1]",
+      "finish_node_xpath": "p[17]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 186,
+      "cfi": "/6/18!/,/2/4/38/1:0,/2/4/38/1:186",
+      "changes_count": 7082,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "zYuf46VZ",
+      "content": "небольшие",
+      "comment": null,
+      "created_at": 1501866077,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[1]/text()[3]",
+      "finish_node_xpath": "p[1]/text()[3]",
+      "start_node_offset": 57,
+      "finish_node_offset": 65,
+      "cfi": "/6/20!/,/2/4/4/5:56,/2/4/4/5:65",
+      "changes_count": 7772,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "CzDdh89i",
+      "content": "Вы не видали еще, или: — вы не знако",
+      "comment": null,
+      "created_at": 1501865943,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[2]/text()[1]",
+      "finish_node_xpath": "p[2]/text()[1]",
+      "start_node_offset": 3,
+      "finish_node_offset": 38,
+      "cfi": "/6/20!/,/2/4/6/1:2,/2/4/6/1:38",
+      "changes_count": 7073,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "EAkTsmdr",
+      "content": "превратится в экономическую свободу для всех",
+      "comment": null,
+      "created_at": 1501762177,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[3]/text()[1]",
+      "finish_node_xpath": "p[3]/text()[1]",
+      "start_node_offset": 1395,
+      "finish_node_offset": 1438,
+      "cfi": "/6/14!/,/2/4/6/1:1394,/2/4/6/1:1438",
+      "changes_count": 7027,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "cZkYeezs",
+        "title": "Государство будущего",
+        "authors": "Ноам Хомский",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/a7/b9/Hg863oC5-ipad.jpg?1457121933",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/a7/b9/Hg863oC5-thumb.jpg?1457121933",
+          "ratio": 0.645,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFgnsHFxcPdnMC//sAc2wCNjYEdnAS/vUE9O0B//wBmq06kqAu7+QA9+kCu70SSFMZ////7yDOFwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDA2OjQxOjE1KzAzOjAwTaH+ewAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwNjo0MToxNSswMzowMDz8RscAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Американский лингвист, публицист, философ Ноам Хомский считается одним из наиболее влиятельных из ныне живущих интеллектуалов. Ярый и последовательный критик политической тирании, анархист Хомский анализирует роль государства от его истоков до современности и обозначает векторы его будущего развития. Он считает одинаково регрессивными идеологии государственного социализма и государственного капитализма, а государство будущего связывает с развитием либертарианства как логического продолжения идей классического либерализма.",
+        "paper_pages": 48,
+        "quotes_count": 567,
+        "readers_count": 2239,
+        "impressions_count": 15,
+        "bookshelves_count": 110,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "fbTZ8LRS",
+      "content": "от одной социальной системы к другой будет социальной революцией. Политическое государство на протяжении всей истории означало управление людьми со стороны правящих классов; социалистическая республика будет управлять производством от имени всего общества. Прежнее экономическое и политическое ",
+      "comment": null,
+      "created_at": 1501762164,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[3]/text()[1]",
+      "finish_node_xpath": "p[3]/text()[1]",
+      "start_node_offset": 1066,
+      "finish_node_offset": 1358,
+      "cfi": "/6/14!/,/2/4/6/1:1065,/2/4/6/1:1358",
+      "changes_count": 7024,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "cZkYeezs",
+        "title": "Государство будущего",
+        "authors": "Ноам Хомский",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/a7/b9/Hg863oC5-ipad.jpg?1457121933",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/a7/b9/Hg863oC5-thumb.jpg?1457121933",
+          "ratio": 0.645,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFgnsHFxcPdnMC//sAc2wCNjYEdnAS/vUE9O0B//wBmq06kqAu7+QA9+kCu70SSFMZ////7yDOFwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDA2OjQxOjE1KzAzOjAwTaH+ewAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwNjo0MToxNSswMzowMDz8RscAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Американский лингвист, публицист, философ Ноам Хомский считается одним из наиболее влиятельных из ныне живущих интеллектуалов. Ярый и последовательный критик политической тирании, анархист Хомский анализирует роль государства от его истоков до современности и обозначает векторы его будущего развития. Он считает одинаково регрессивными идеологии государственного социализма и государственного капитализма, а государство будущего связывает с развитием либертарианства как логического продолжения идей классического либерализма.",
+        "paper_pages": 48,
+        "quotes_count": 567,
+        "readers_count": 2239,
+        "impressions_count": 15,
+        "bookshelves_count": 110,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "sIESgnS7",
+      "content": "социализма»:\nСоциалист-революционер отрицает, что государственная собственность может привести к чему-то, кроме бюрократического деспотизма. Мы видели, почему государство не может демократически контролировать производство. Демократически управлять и владеть производством могут лишь сами рабочие, посредством управленческих комитетов, которые сформированы путем выборов в рабочей же среде. Социализм будет в основе своей индустриальной системой; его избирательная система будет иметь индустриальный",
+      "comment": null,
+      "created_at": 1501762132,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[2]/text()[3]",
+      "finish_node_xpath": "p[3]/text()[1]",
+      "start_node_offset": 292,
+      "finish_node_offset": 486,
+      "cfi": "/6/14!/,/2/4/4/5:291,/2/4/6/1:486",
+      "changes_count": 7019,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "cZkYeezs",
+        "title": "Государство будущего",
+        "authors": "Ноам Хомский",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/a7/b9/Hg863oC5-ipad.jpg?1457121933",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/a7/b9/Hg863oC5-thumb.jpg?1457121933",
+          "ratio": 0.645,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFgnsHFxcPdnMC//sAc2wCNjYEdnAS/vUE9O0B//wBmq06kqAu7+QA9+kCu70SSFMZ////7yDOFwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDA2OjQxOjE1KzAzOjAwTaH+ewAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwNjo0MToxNSswMzowMDz8RscAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Американский лингвист, публицист, философ Ноам Хомский считается одним из наиболее влиятельных из ныне живущих интеллектуалов. Ярый и последовательный критик политической тирании, анархист Хомский анализирует роль государства от его истоков до современности и обозначает векторы его будущего развития. Он считает одинаково регрессивными идеологии государственного социализма и государственного капитализма, а государство будущего связывает с развитием либертарианства как логического продолжения идей классического либерализма.",
+        "paper_pages": 48,
+        "quotes_count": 567,
+        "readers_count": 2239,
+        "impressions_count": 15,
+        "bookshelves_count": 110,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "tUUV3P2S",
+      "content": "men slap ikke Golon helt. Golon var besvimet i sadlen foran ham.",
+      "comment": null,
+      "created_at": 1501761912,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[145]/text()[1]",
+      "finish_node_xpath": "p[145]/text()[1]",
+      "start_node_offset": 22,
+      "finish_node_offset": 85,
+      "cfi": "/6/62!/,/2/4/294/1:21,/2/4/294/1:85",
+      "changes_count": 7016,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "JbOJZSem",
+        "title": "Mithos",
+        "authors": "Kristian Leth",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/4e/85/mAjsd9kg-ipad.jpg?1495681313",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/4e/85/mAjsd9kg-thumb.jpg?1495681313",
+          "ratio": 0.67,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRFMTAsQD86MjEsFxYUycSxc2xmcGljrKaWU1NJNzYxNzcvBAQEDQ4JCwsJAwMD////1TJRpwAAAAFiS0dEDxi6ANkAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAUSURBVAgdY2RUYnFRYnGRZzFWAgAHJQFPt6qWpQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wNS0yNVQwNjowMTo1NCswMzowMG5ykJ4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDUtMjVUMDY6MDE6NTQrMDM6MDAfLygiAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAEt0RVh0eGFwTU06RG9jdW1lbnRJRABhZG9iZTpkb2NpZDpwaG90b3Nob3A6ODkzYTdjZDMtMzZlMS0xMWU3LThjNGQtOTI1NzUxNGJmZGNiz8JpAgAAAABJRU5ErkJggg=="
+        },
+        "language": "da",
+        "annotation": "Landet Mella er ved at gå under. Det ved drengen Taom, der plages af uforudsigelige anfald og mørke syner. Men Taoms far, som arbejder for Mellas kejser, tror ikke på syner, og han vil ikke lytte.<br>Taoms mor ser ingen anden udvej for at hjælpe sin søn end at opsøge det forbudte Broderskab, som dyrker magi. Mødet får Taom til at tvivle på sin fars videnskabelige verdenssyn, og sammen med veninden Aena beslutter han at rejse ind i Den uendelige skov for at få indsigt i Broderskabets visdom.<br>Men intet er som de tror, og Aena og Taom må indse, at de ikke ved, hvem der er god, og hvem der er ond. De ved ikke engang, hvem de selv er.<br>Romanen Mithos er lige så mørk som et folkeeventyr og lige så sand som en myte. Det er en fortælling om fornuft og om spiritualitet, og om hvordan begge dele er nødvendige for at verden skal bestå.<br>",
+        "paper_pages": 341,
+        "quotes_count": 2,
+        "readers_count": 56,
+        "impressions_count": 0,
+        "bookshelves_count": 14,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "deFVxhFT",
+      "content": "handlede om Golons liv. Der var ikke tid til at placere skyld lige nu. Soldaterne var ordentlige, veltrænede mænd, og hun vidste, at det ikke var dem, hun skulle diskutere med. De ville følge en leder, og lige nu var den leder Argen. Det var ham, der havde taget initiativet og fået dem ud. Og Argen kendte hun.\n”Du bliver nødt til at lade ham gå, Argen.”\n”Jeg bliver ikke nødt til noget",
+      "comment": null,
+      "created_at": 1501761836,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[139]/text()[1]",
+      "finish_node_xpath": "p[141]/text()[1]",
+      "start_node_offset": 86,
+      "finish_node_offset": 31,
+      "cfi": "/6/62!/,/2/4/282/1:85,/2/4/286/1:31",
+      "changes_count": 7011,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "JbOJZSem",
+        "title": "Mithos",
+        "authors": "Kristian Leth",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/4e/85/mAjsd9kg-ipad.jpg?1495681313",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/4e/85/mAjsd9kg-thumb.jpg?1495681313",
+          "ratio": 0.67,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRFMTAsQD86MjEsFxYUycSxc2xmcGljrKaWU1NJNzYxNzcvBAQEDQ4JCwsJAwMD////1TJRpwAAAAFiS0dEDxi6ANkAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAUSURBVAgdY2RUYnFRYnGRZzFWAgAHJQFPt6qWpQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wNS0yNVQwNjowMTo1NCswMzowMG5ykJ4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDUtMjVUMDY6MDE6NTQrMDM6MDAfLygiAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADF4MSwxeDEsMXgx6ZX8cAAAAEt0RVh0eGFwTU06RG9jdW1lbnRJRABhZG9iZTpkb2NpZDpwaG90b3Nob3A6ODkzYTdjZDMtMzZlMS0xMWU3LThjNGQtOTI1NzUxNGJmZGNiz8JpAgAAAABJRU5ErkJggg=="
+        },
+        "language": "da",
+        "annotation": "Landet Mella er ved at gå under. Det ved drengen Taom, der plages af uforudsigelige anfald og mørke syner. Men Taoms far, som arbejder for Mellas kejser, tror ikke på syner, og han vil ikke lytte.<br>Taoms mor ser ingen anden udvej for at hjælpe sin søn end at opsøge det forbudte Broderskab, som dyrker magi. Mødet får Taom til at tvivle på sin fars videnskabelige verdenssyn, og sammen med veninden Aena beslutter han at rejse ind i Den uendelige skov for at få indsigt i Broderskabets visdom.<br>Men intet er som de tror, og Aena og Taom må indse, at de ikke ved, hvem der er god, og hvem der er ond. De ved ikke engang, hvem de selv er.<br>Romanen Mithos er lige så mørk som et folkeeventyr og lige så sand som en myte. Det er en fortælling om fornuft og om spiritualitet, og om hvordan begge dele er nødvendige for at verden skal bestå.<br>",
+        "paper_pages": 341,
+        "quotes_count": 2,
+        "readers_count": 56,
+        "impressions_count": 0,
+        "bookshelves_count": 14,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "S2qFSuT6",
+      "content": "заботятся, как о судьбе новорожденного младенца. В Англии и ее колониях",
+      "comment": "Фыва ыва",
+      "created_at": 1501753510,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 2,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[7]/text()[1]",
+      "finish_node_xpath": "p[7]/text()[1]",
+      "start_node_offset": 159,
+      "finish_node_offset": 229,
+      "cfi": "/6/2!/,/2/4/16/1:158,/2/4/16/1:229",
+      "changes_count": 6940,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "vyOVLiqa",
+        "title": "Фрегат «Паллада»",
+        "authors": "Иван Гончаров",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-ipad.jpg?1491822080",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-thumb.jpg?1491822080",
+          "ratio": 0.66,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQUtvZW+TYmuSRE10RU9zanSYanOaTVZ9RlB0W2WJWWKJR1B3Q01xTFZ6SVJ5Q0xz////S4UQngAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTEwVDE0OjAxOjI0KzAzOjAwZ8XLcAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0xMFQxNDowMToyNCswMzowMBaYc8wAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Фрегат «Паллада». Произведение было впервые опубликовано в середине 50-х годов прошлого века. В основу его легли впечатления от экспедиции на военном фрегате «Паллада» в 1852–1855 гг. к берегам Японии с дипломатическими целями. Очерковый цикл представляет собой блестящий образец русской прозы, в котором в полной мере раскрывается мастерство И. А. Гончарова — художника, психолога, бытописателя.",
+        "paper_pages": 983,
+        "quotes_count": 270,
+        "readers_count": 856,
+        "impressions_count": 1,
+        "bookshelves_count": 24,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "WZ1R7Nzm",
+      "content": "железным и другим дорогам, по океанам, из полушария в полушарие, и находит неминуемо того, к кому послано, если только он жив, и так же неминуемо возвращается",
+      "comment": "Фыва",
+      "created_at": 1501753476,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 2,
+      "style": "highlight",
+      "start_node_xpath": "p[7]/text()[1]",
+      "finish_node_xpath": "p[7]/text()[1]",
+      "start_node_offset": 298,
+      "finish_node_offset": 455,
+      "cfi": "/6/2!/,/2/4/16/1:297,/2/4/16/1:455",
+      "changes_count": 6936,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "vyOVLiqa",
+        "title": "Фрегат «Паллада»",
+        "authors": "Иван Гончаров",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-ipad.jpg?1491822080",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-thumb.jpg?1491822080",
+          "ratio": 0.66,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQUtvZW+TYmuSRE10RU9zanSYanOaTVZ9RlB0W2WJWWKJR1B3Q01xTFZ6SVJ5Q0xz////S4UQngAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTEwVDE0OjAxOjI0KzAzOjAwZ8XLcAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0xMFQxNDowMToyNCswMzowMBaYc8wAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Фрегат «Паллада». Произведение было впервые опубликовано в середине 50-х годов прошлого века. В основу его легли впечатления от экспедиции на военном фрегате «Паллада» в 1852–1855 гг. к берегам Японии с дипломатическими целями. Очерковый цикл представляет собой блестящий образец русской прозы, в котором в полной мере раскрывается мастерство И. А. Гончарова — художника, психолога, бытописателя.",
+        "paper_pages": 983,
+        "quotes_count": 270,
+        "readers_count": 856,
+        "impressions_count": 1,
+        "bookshelves_count": 24,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "YpPkDfo4",
+      "content": "Доггерская",
+      "comment": "Йццукен",
+      "created_at": 1501753444,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 2,
+      "style": "highlight",
+      "start_node_xpath": "p[6]/text()[1]",
+      "finish_node_xpath": "p[6]/text()[1]",
+      "start_node_offset": 255,
+      "finish_node_offset": 264,
+      "cfi": "/6/2!/,/2/4/14/1:254,/2/4/14/1:264",
+      "changes_count": 6929,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "vyOVLiqa",
+        "title": "Фрегат «Паллада»",
+        "authors": "Иван Гончаров",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-ipad.jpg?1491822080",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-thumb.jpg?1491822080",
+          "ratio": 0.66,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQUtvZW+TYmuSRE10RU9zanSYanOaTVZ9RlB0W2WJWWKJR1B3Q01xTFZ6SVJ5Q0xz////S4UQngAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTEwVDE0OjAxOjI0KzAzOjAwZ8XLcAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0xMFQxNDowMToyNCswMzowMBaYc8wAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Фрегат «Паллада». Произведение было впервые опубликовано в середине 50-х годов прошлого века. В основу его легли впечатления от экспедиции на военном фрегате «Паллада» в 1852–1855 гг. к берегам Японии с дипломатическими целями. Очерковый цикл представляет собой блестящий образец русской прозы, в котором в полной мере раскрывается мастерство И. А. Гончарова — художника, психолога, бытописателя.",
+        "paper_pages": 983,
+        "quotes_count": 270,
+        "readers_count": 856,
+        "impressions_count": 1,
+        "bookshelves_count": 24,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "ALrQbPYg",
+      "content": "о э",
+      "comment": null,
+      "created_at": 1500895886,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[1265]/text()[1]",
+      "finish_node_xpath": "p[1265]/text()[1]",
+      "start_node_offset": 555,
+      "finish_node_offset": 557,
+      "cfi": "/6/2!/,/2/4/2532/1:554,/2/4/2532/1:557",
+      "changes_count": 6527,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "vyOVLiqa",
+        "title": "Фрегат «Паллада»",
+        "authors": "Иван Гончаров",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-ipad.jpg?1491822080",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-thumb.jpg?1491822080",
+          "ratio": 0.66,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQUtvZW+TYmuSRE10RU9zanSYanOaTVZ9RlB0W2WJWWKJR1B3Q01xTFZ6SVJ5Q0xz////S4UQngAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTEwVDE0OjAxOjI0KzAzOjAwZ8XLcAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0xMFQxNDowMToyNCswMzowMBaYc8wAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Фрегат «Паллада». Произведение было впервые опубликовано в середине 50-х годов прошлого века. В основу его легли впечатления от экспедиции на военном фрегате «Паллада» в 1852–1855 гг. к берегам Японии с дипломатическими целями. Очерковый цикл представляет собой блестящий образец русской прозы, в котором в полной мере раскрывается мастерство И. А. Гончарова — художника, психолога, бытописателя.",
+        "paper_pages": 983,
+        "quotes_count": 270,
+        "readers_count": 856,
+        "impressions_count": 1,
+        "bookshelves_count": 24,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "y9xZ6D7V",
+      "content": "историки Наполеона, говорит, стараясь оправдать своего героя, что Наполеон был привлечен к стенам Москвы невольно. Он прав, как и правы все историки, ищущие объяснения событий исторических в воле одного человека; он прав так же, как и русские историки, утверждающие, что Наполеон был п",
+      "comment": null,
+      "created_at": 1494614362,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 1,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[1]/text()[1]",
+      "finish_node_xpath": "p[1]/text()[1]",
+      "start_node_offset": 161,
+      "finish_node_offset": 445,
+      "cfi": "/6/406!/,/2/4/4[e-EX7i]/1:160,/2/4/4[e-EX7i]/1:444",
+      "changes_count": 6726,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36008,
+        "readers_count": 56489,
+        "impressions_count": 205,
+        "bookshelves_count": 1227,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "qQzX6gXs",
+      "content": "was",
+      "comment": null,
+      "created_at": 1490001299,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[3]/text()[1]",
+      "finish_node_xpath": "p[3]/text()[1]",
+      "start_node_offset": 95,
+      "finish_node_offset": 97,
+      "cfi": "/6/2!/,/2/4/18/1:94,/2/4/18/1:97",
+      "changes_count": 6725,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "CsFxhyJt",
+        "title": "Anna Karenina",
+        "authors": "Leo Tolstoy",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/12/d5/enJ9ypXn-ipad.jpg?1464696216",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/12/d5/enJ9ypXn-thumb.jpg?1464696216",
+          "ratio": 0.685,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFxa6OWlBEqolg3LiG6cyioW1IWDkk07KFuJ+AU0M0GxcUcWRRAQAAKRsQLCASAgEA////dCRHlwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAxOjAwOjU0KzAzOjAwTfTl0QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMTowMDo1NCswMzowMDypXW0AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4YXBNTTpEZXJpdmVkRnJvbQACsExZAAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>Some people say Anna Karenina is the single greatest novel ever written, which makes about as much sense to me as trying to determine the world’s greatest color. But there is no doubt that Anna Karenina, generally considered Tolstoy’s best book, is definitely one ripping great read. Anna, miserable in her loveless marriage, does the barely thinkable and succumbs to her desires for the dashing Vronsky. I don’t want to give away the ending, but I will say that 19th-century Russia doesn’t take well to that sort of thing.</p>",
+        "paper_pages": 1234,
+        "quotes_count": 47,
+        "readers_count": 1345,
+        "impressions_count": 3,
+        "bookshelves_count": 41,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "AWb5Ir5U",
+      "content": "daha",
+      "comment": null,
+      "created_at": 1482922857,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[4]/text()[1]",
+      "finish_node_xpath": "p[4]/text()[1]",
+      "start_node_offset": 317,
+      "finish_node_offset": 320,
+      "cfi": "/6/10!/,/2/4/10/1:316,/2/4/10/1:320",
+      "changes_count": 6724,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "o5aAWCAK",
+        "title": "Heklberri finnin macəraları",
+        "authors": "Mark Tven",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/a4/62/eFf8OlLN-ipad.jpg?1445878000",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/a4/62/eFf8OlLN-thumb.jpg?1445878000",
+          "ratio": 0.68,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/Pv53c/M2c7I/fn4/PDw9N7g/e3u/fj1koV9cV9bm4yHt6ijcHhhd2phmol1mImE////O9goFQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDE5OjQ1OjUwKzAzOjAwKEdLHwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQxOTo0NTo1MCswMzowMFka86MAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "az",
+        "annotation": "“Tom Soyyerin macəraları”nın davamı kimi işlənmiş “Heklberri Finnin macəraları”nda isə zənci Cim obrazını romana gətirməklə müəllif irqi ayrı-seçkiliyə öz nifrətini bildirmişdir ki, bu da əsəri ictimai məzmunlu roman səviyyəsinə qaldırmışdır.\nİrqi ayrı-seçkiliyin tüğyan elədiyi illərdə bu cür ifşaedici mahiyyətli bir əsər yaratması Mark Tvenin vətəndaş cəsarətinin parlaq ifadəsi idi. XX əsrin tanınmış yazıçısı, Nobel mükafatı laureatı Ernest Heminquey heçdə təsadüfi olaraq demirdi ki, bütün Amerika nəsri “Heklberri Finnin macəraları” romanından törənmişdir.",
+        "paper_pages": 377,
+        "quotes_count": 4,
+        "readers_count": 110,
+        "impressions_count": 1,
+        "bookshelves_count": 11,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    }
+  ]
+}

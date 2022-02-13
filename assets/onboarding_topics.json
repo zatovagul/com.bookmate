@@ -1,0 +1,194 @@
+{
+  "topics": [
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/matMydFa/thumbs/1586b7708119b4732cbab9972fbc96a8.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "besplatno-ru",
+      "title": "Бесплатно",
+      "uuid": "matMydFa"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/jfHuFnOE/thumbs/401c612b51ecaabc2d5f7f8fd7e02ba9.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "young%20adult-ru",
+      "title": "Young Adult",
+      "uuid": "jfHuFnOE"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/fEYA1dDO/thumbs/f93457a9e74d0a42491df5b3df93f10f.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "romantika-ru",
+      "title": "Романтика",
+      "uuid": "fEYA1dDO"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/GFAw6lsG/thumbs/5d30ea0bdebf0c47de49d900666f24d1.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "fantastika%20i%20fentezi-ru",
+      "title": "Фантастика и фэнтези",
+      "uuid": "GFAw6lsG"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/u1apmt8v/thumbs/c145d93d92ca3a549a9847f9defb9b56.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "biografii-ru",
+      "title": "Биографии",
+      "uuid": "u1apmt8v"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/Lts9Xegj/thumbs/c1755d17d03ea45dd51e502ee777d28c.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "deti-ru",
+      "title": "Дети",
+      "uuid": "Lts9Xegj"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/H5RfHiVX/thumbs/9eb7edd7c11174e2a371995e08793b60.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "biznes-ru",
+      "title": "Бизнес",
+      "uuid": "H5RfHiVX"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/wwgQ0Rpg/thumbs/2deae61d1b9f9ce097d52ed2b9369aa8.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "douhovnaya%20zhizn-ru",
+      "title": "Духовная жизнь",
+      "uuid": "wwgQ0Rpg"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/vbKpB0WH/thumbs/558480773ccd9d0a4cd6121c9da8ec6b.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "eda,%20zdorove%20i%20sport-ru",
+      "title": "Еда, здоровье и спорт",
+      "uuid": "vbKpB0WH"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/DcWH5heg/thumbs/2469c698a74dac3957d300f99cd30be3.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "klassika-ru",
+      "title": "Классика",
+      "uuid": "DcWH5heg"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/HAliI3Yp/thumbs/e212f9efc1d029a7b4f2791be2dfcb9d.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "proza-ru",
+      "title": "Проза",
+      "uuid": "HAliI3Yp"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/DY2H1xRV/thumbs/b6fec2bde9df4500d2066a99eb3d5688.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "poeziya%20i%20dramatourgiya-ru",
+      "title": "Поэзия и драматургия",
+      "uuid": "DY2H1xRV"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/DqHQdweo/thumbs/984663b563db942f89a4240093add9d9.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "detektivy%20i%20trillery-ru",
+      "title": "Детективы и триллеры",
+      "uuid": "DqHQdweo"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/MKZGjeDk/thumbs/266f4d23b073352dee3f03d00a10a0aa.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "samorazvitie-ru",
+      "title": "Саморазвитие",
+      "uuid": "MKZGjeDk"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/c2Bc2IFd/thumbs/51d578466fb422091f1ab2986ac5a1e9.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "aoudio-ru",
+      "title": "Аудио",
+      "uuid": "c2Bc2IFd"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/fFDqPEmM/thumbs/665869b98535fc6954a9e9e5ab2074ae.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "komiksy-ru",
+      "title": "Комиксы",
+      "uuid": "fFDqPEmM"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/VfVDknHK/thumbs/60a9aff4d8ff68ebba7b928caf104b7e.png"
+      },
+      "is_subtopic": false,
+      "icon": "",
+      "slug": "tolko%20ou%20nas-ru",
+      "title": "Только у нас",
+      "uuid": "VfVDknHK"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/j1aigldo/thumbs/c306064b4be73bec9f7d7c897dd6c5ee.png"
+      },
+      "is_subtopic": false,
+      "icon": null,
+      "slug": "podkasty-ru",
+      "title": "Подкасты",
+      "uuid": "j1aigldo"
+    },
+    {
+      "background": {
+        "large": "https://assets3.dev.bookmate.com/assets/topics/wQbqzwUv/thumbs/1730104352ac897268bdc0df86da2d60.png"
+      },
+      "is_subtopic": false,
+      "icon": "",
+      "slug": "non-fikshn-ru",
+      "title": "Нон-фикшн",
+      "uuid": "wQbqzwUv"
+    }
+  ]
+}

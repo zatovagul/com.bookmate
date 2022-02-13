@@ -1,0 +1,47 @@
+{
+  "featured_product": {
+    "image": {
+      "label": "master",
+      "url": "https://a.bmstatic.com/iu/featured_product-73809a396d6abbaff82cf9bd3c3e927a.png"
+    },
+    "title": "Одна подписка на все",
+    "advantages": [
+      "Книги, комиксы, аудиокниги и подкасты",
+      "Читайте офлайн",
+      "Синхронизация между устройствами",
+      "Загружайте свои книги",
+      "Отмена подписки в любой момент"
+    ],
+    "button": {
+      "text": "7 days for free",
+      "text_color": "#FFFFFF",
+      "background_color": "#4CD180",
+      "comment": "After that - 499 ₽ per month",
+      "comment_color": "#EEEEEE",
+      "plans": [
+        {
+          "id": "stripe_1_month_master_trial_ru_231118",
+          "system": "cards",
+          "duration": "1_month",
+          "trial": true,
+          "prepay_text": "Попробуйте читать и слушать Букмейт бесплатно 7 дней, чтобы понять, нравится ли он вам. Премиум подписка открывает доступ ко всем книгам, комиксам и аудиокнигам на Букмейте.<br>Через 7 дней подписка продлится автоматически — за 499 ₽ в месяц. Отменить автопродление можно в любой момент в профиле на сайте или в приложении. Никаких платежей до окончания пробного периода 21 декабря 2018 года",
+          "price": 49900,
+          "currency": "RUB",
+          "discount_percent": null,
+          "kind": "master",
+          "analytics": {
+            "control": "subscribe_master_1_month",
+            "object_type": "subscription",
+            "object_id": "trial_cards",
+            "process_data": {
+              "sub_type": "master",
+              "duration": "1_month",
+              "payment_method": "trial_cards",
+              "plan_id": "stripe_1_month_master_trial_ru_231118"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

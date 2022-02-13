@@ -1,0 +1,1124 @@
+{
+  "quotes": [
+    {
+      "uuid": "ALrQbPYg",
+      "state": "exists",
+      "content": "о э",
+      "comment": null,
+      "created_at": 1500895886,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[1265]/text()[1]",
+      "finish_node_xpath": "p[1265]/text()[1]",
+      "start_node_offset": 555,
+      "finish_node_offset": 557,
+      "cfi": "/6/2!/,/2/4/2532/1:554,/2/4/2532/1:557",
+      "changes_count": 6527,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "vyOVLiqa",
+        "title": "Фрегат «Паллада»",
+        "authors": "Иван Гончаров",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-ipad.jpg?1491822080",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/d0/4e/qcFpZ7zY-thumb.jpg?1491822080",
+          "ratio": 0.66,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFQUtvZW+TYmuSRE10RU9zanSYanOaTVZ9RlB0W2WJWWKJR1B3Q01xTFZ6SVJ5Q0xz////S4UQngAAAAFiS0dEEJWyDSwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTEwVDE0OjAxOjI0KzAzOjAwZ8XLcAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0xMFQxNDowMToyNCswMzowMBaYc8wAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Фрегат «Паллада». Произведение было впервые опубликовано в середине 50-х годов прошлого века. В основу его легли впечатления от экспедиции на военном фрегате «Паллада» в 1852–1855 гг. к берегам Японии с дипломатическими целями. Очерковый цикл представляет собой блестящий образец русской прозы, в котором в полной мере раскрывается мастерство И. А. Гончарова — художника, психолога, бытописателя.",
+        "paper_pages": 983,
+        "quotes_count": 274,
+        "readers_count": 866,
+        "impressions_count": 0,
+        "bookshelves_count": 25,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "ARspjJxU",
+      "state": "exists",
+      "content": "He was clad completely in buckskin, and his hat was wide of brim. A rifle held in one hand lay across the pommel of his saddle and there were weapons in his belt. Two light, but warm, blankets, folded closely, were tied behind him. The tanned face and the lithe, strong figure showed a wonderful degree of health and strength.",
+      "comment": "Test",
+      "created_at": 1466070932,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[3]/text()[1]",
+      "finish_node_xpath": "p[3]/text()[1]",
+      "start_node_offset": 331,
+      "finish_node_offset": 656,
+      "cfi": "/6/12!/,/2/4/8/1:330,/2/4/8/1:656",
+      "changes_count": 6569,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "OGLcxYCB",
+        "title": "The Texan Scouts / A Story of the Alamo and Goliad",
+        "authors": "Joseph Altsheler",
+        "cover": {
+          "large": null,
+          "small": null,
+          "ratio": null,
+          "placeholder": null
+        },
+        "language": "en",
+        "annotation": null,
+        "paper_pages": 369,
+        "quotes_count": 14,
+        "readers_count": 5,
+        "impressions_count": 0,
+        "bookshelves_count": 0,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "etpUAA8S",
+      "state": "exists",
+      "content": "The rider presently turned his horse toward the river and stopped on a low bluff overlooking it. His face showed a tinge of disappointment, as if his eyes failed to find objects for which they sought. Again he gazed long and patiently into the south, but without reward.\nHe resumed his ride parallel with the river, but soon stopped a second time, and held up an open hand, like one who tests the wind. The air was growing perceptibly colder. The strong gusts were now fusing into a steady wind. The",
+      "comment": null,
+      "created_at": 1466071119,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 3,
+      "style": "highlight",
+      "start_node_xpath": "p[5]/text()[1]",
+      "finish_node_xpath": "p[6]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 228,
+      "cfi": "/6/12!/,/2/4/12/1:0,/2/4/14/1:228",
+      "changes_count": 6570,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "OGLcxYCB",
+        "title": "The Texan Scouts / A Story of the Alamo and Goliad",
+        "authors": "Joseph Altsheler",
+        "cover": {
+          "large": null,
+          "small": null,
+          "ratio": null,
+          "placeholder": null
+        },
+        "language": "en",
+        "annotation": null,
+        "paper_pages": 369,
+        "quotes_count": 14,
+        "readers_count": 5,
+        "impressions_count": 0,
+        "bookshelves_count": 0,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "Yu3WAoZU",
+      "state": "exists",
+      "content": "On his left was the wide bed of a river which flowed through the sand, breaking here and there into several streams, and then reuniting, only to scatter its volume a hundred yards further into three or four channels. A bird of prey flew on strong wing over the water, dipped and then rose again, but there was no other sign of life",
+      "comment": null,
+      "created_at": 1466071248,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 3,
+      "style": "highlight",
+      "start_node_xpath": "p[2]/text()[1]",
+      "finish_node_xpath": "p[2]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 331,
+      "cfi": "/6/12!/,/2/4/6/1:0,/2/4/6/1:331",
+      "changes_count": 6571,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "OGLcxYCB",
+        "title": "The Texan Scouts / A Story of the Alamo and Goliad",
+        "authors": "Joseph Altsheler",
+        "cover": {
+          "large": null,
+          "small": null,
+          "ratio": null,
+          "placeholder": null
+        },
+        "language": "en",
+        "annotation": null,
+        "paper_pages": 369,
+        "quotes_count": 14,
+        "readers_count": 5,
+        "impressions_count": 0,
+        "bookshelves_count": 0,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "JAdlkI0U",
+      "state": "exists",
+      "content": "These were the first Mexicans that any one had seen on Texan soil since the departure of Cos and his army on parole from captured San Antonio.",
+      "comment": null,
+      "created_at": 1466073602,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 3,
+      "style": "highlight",
+      "start_node_xpath": "p[17]/text()[1]",
+      "finish_node_xpath": "p[17]/text()[1]",
+      "start_node_offset": 409,
+      "finish_node_offset": 550,
+      "cfi": "/6/12!/,/2/4/36/1:408,/2/4/36/1:550",
+      "changes_count": 6572,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "OGLcxYCB",
+        "title": "The Texan Scouts / A Story of the Alamo and Goliad",
+        "authors": "Joseph Altsheler",
+        "cover": {
+          "large": null,
+          "small": null,
+          "ratio": null,
+          "placeholder": null
+        },
+        "language": "en",
+        "annotation": null,
+        "paper_pages": 369,
+        "quotes_count": 14,
+        "readers_count": 5,
+        "impressions_count": 0,
+        "bookshelves_count": 0,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "BApoBoT4",
+      "state": "exists",
+      "content": "одиннадцать",
+      "comment": null,
+      "created_at": 1466082043,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[3]/text()[1]",
+      "finish_node_xpath": "p[3]/text()[1]",
+      "start_node_offset": 152,
+      "finish_node_offset": 162,
+      "cfi": "/6/2!/,/2/4/10/1:151,/2/4/10/1:162",
+      "changes_count": 6573,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Jbh2fnK4",
+        "title": "Полный контроль",
+        "authors": "Ли Паркс",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/c9/4f/VwlmZra1-ipad.jpg?1463995582",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/c9/4f/VwlmZra1-thumb.jpg?1463995582",
+          "ratio": 0.797,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRF3q+lzZ6UxpqR1amg16ieyJmP3LCn8MS7f3t4YV1aycnJ4+PjX1tYbWlmjY2N////RIV6KQAAAAFiS0dEDxi6ANkAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAUSURBVAjXY2BUZnBNZ+hczXD2HQAOTwPAtjds7AAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMC0xNVQxNjowMjo0NSswMzowMG3ISHkAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMTAtMTVUMTY6MDI6NDUrMDM6MDAclfDFAAAAEXRFWHRqcGVnOmNvbG9yc3BhY2UAMix1VZ8AAAAgdEVYdGpwZWc6c2FtcGxpbmctZmFjdG9yADJ4MiwxeDEsMXgxSfqmtAAAAABJRU5ErkJggg=="
+        },
+        "language": "ru",
+        "annotation": "Так получилось, что большая часть сорока лет моей жизни связана с мотоциклами. Я с детства мечтал ездить на байке, и сел в седло когда мне исполнилось одиннадцать. С тех пор мое увлечение захватывало меня все сильнее, я даже написал книжку «Руководство по мотоциклам для полных идиотов». И вот недавно я понял одну интересную вещь – я почти не умею водить мотоцикл. Довольно странное открытие для человека с моим стажем, не так ли?",
+        "paper_pages": 262,
+        "quotes_count": 21,
+        "readers_count": 130,
+        "impressions_count": 0,
+        "bookshelves_count": 8,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "ju41CF6Z",
+      "state": "exists",
+      "content": "Е=mc²",
+      "comment": null,
+      "created_at": 1466162667,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[9]/i[1]/text()[1]",
+      "finish_node_xpath": "p[9]/i[1]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 5,
+      "cfi": "/6/4!/,/2/4/24/2/1:0,/2/4/24/2/1:5",
+      "changes_count": 6574,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "XMKFck51",
+        "title": "Краткая история времени. От большого взрыва до черных дыр",
+        "authors": "Стивен Хокинг",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/bf/b0/d0UQ2SkY-ipad.jpg?1452519606",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/bf/b0/d0UQ2SkY-thumb.jpg?1452519606",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF2tnUwsjIxcrN4uLg+/v519/itL3C+Pr5xMXZzNTrq7LMyMnd6e3utsHF4Ovv/P//////hXXbkQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE1VDAwOjI4OjU1KzAzOjAw08ZfRAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNVQwMDoyODo1NSswMzowMKKb5/gAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Увлекательно и доступно знаменитый английский физик Стивен Хокинг рассказывает нам о природе пространства и времени, о происхождении Вселенной и ее возможной судьбе.",
+        "paper_pages": 251,
+        "quotes_count": 2878,
+        "readers_count": 13868,
+        "impressions_count": 37,
+        "bookshelves_count": 423,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "private",
+            "title": "Недоступно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "foOqf7Oj",
+      "state": "exists",
+      "content": "что́",
+      "comment": null,
+      "created_at": 1466162785,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[25]/text()[11]",
+      "finish_node_xpath": "p[25]/text()[11]",
+      "start_node_offset": 22,
+      "finish_node_offset": 24,
+      "cfi": "/6/8!/,/2/4/58/21:21,/2/4/58/21:24",
+      "changes_count": 6575,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "XMKFck51",
+        "title": "Краткая история времени. От большого взрыва до черных дыр",
+        "authors": "Стивен Хокинг",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/bf/b0/d0UQ2SkY-ipad.jpg?1452519606",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/bf/b0/d0UQ2SkY-thumb.jpg?1452519606",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF2tnUwsjIxcrN4uLg+/v519/itL3C+Pr5xMXZzNTrq7LMyMnd6e3utsHF4Ovv/P//////hXXbkQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAQSURBVAjXY2FgZGRkYUEhAAG6ACkQMnYzAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE1VDAwOjI4OjU1KzAzOjAw08ZfRAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNVQwMDoyODo1NSswMzowMKKb5/gAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Увлекательно и доступно знаменитый английский физик Стивен Хокинг рассказывает нам о природе пространства и времени, о происхождении Вселенной и ее возможной судьбе.",
+        "paper_pages": 251,
+        "quotes_count": 2878,
+        "readers_count": 13868,
+        "impressions_count": 37,
+        "bookshelves_count": 423,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "private",
+            "title": "Недоступно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "tS2sYdEh",
+      "state": "exists",
+      "content": "CO2",
+      "comment": null,
+      "created_at": 1466162872,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[13]/text()[1]",
+      "finish_node_xpath": "p[13]/sub[1]/text()[1]",
+      "start_node_offset": 257,
+      "finish_node_offset": 1,
+      "cfi": "/6/6!/,/2/4/30/1:256,/2/4/30/2/1:1",
+      "changes_count": 6576,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "eUBlsZ4y",
+        "title": "Марсианин",
+        "authors": "Энди Уир",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/61/89/GMitui8f-ipad.jpg?1494419313",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/61/89/GMitui8f-thumb.jpg?1494419313",
+          "ratio": 0.65,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFp5yKblhDlX9quLSoMCIfZz0xm25XYE5CRDYzakQ5kWZVV0Q9QTw4LSkmMSknUk9K////KPiqiwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAIpoAACKaAb7d+yoAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA1LTEwVDE1OjI4OjMzKzAzOjAwwMU+tgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNS0xMFQxNToyODozMyswMzowMLGYhgoAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Я очень гордился тем, что попал в команду для полета на Марс – кто бы отказался прогуляться по чужой планете!\nНо… меня забыли. Бросили, раненого и растерянного, и корабль улетел.\nВ лучшем случае я смогу протянуть в спасательном модуле 400 суток. Что же делать – разыскать в безбрежных красных песках поврежденную бурей антенну, попытаться починить ее, чтобы связаться с базовым кораблем и напомнить о своем существовании? Или дожидаться прибытия следующей экспедиции, которая прилетит только через ЧЕТЫРЕ ГОДА?\nГде брать еду? Воду? Воздух?\nКак не сойти с ума от одиночества?\nРобинзону было легче… у него хотя бы был Пятница.",
+        "paper_pages": 377,
+        "quotes_count": 2730,
+        "readers_count": 20351,
+        "impressions_count": 648,
+        "bookshelves_count": 551,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "BEsfYraK",
+      "state": "exists",
+      "content": "CO2-фильтры ",
+      "comment": null,
+      "created_at": 1466162910,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[26]/text()[2]",
+      "finish_node_xpath": "p[26]/text()[3]",
+      "start_node_offset": 145,
+      "finish_node_offset": 8,
+      "cfi": "/6/6!/,/2/4/58/3:144,/2/4/58/5:8",
+      "changes_count": 6577,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "eUBlsZ4y",
+        "title": "Марсианин",
+        "authors": "Энди Уир",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/61/89/GMitui8f-ipad.jpg?1494419313",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/61/89/GMitui8f-thumb.jpg?1494419313",
+          "ratio": 0.65,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFp5yKblhDlX9quLSoMCIfZz0xm25XYE5CRDYzakQ5kWZVV0Q9QTw4LSkmMSknUk9K////KPiqiwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAIpoAACKaAb7d+yoAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA1LTEwVDE1OjI4OjMzKzAzOjAwwMU+tgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNS0xMFQxNToyODozMyswMzowMLGYhgoAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Я очень гордился тем, что попал в команду для полета на Марс – кто бы отказался прогуляться по чужой планете!\nНо… меня забыли. Бросили, раненого и растерянного, и корабль улетел.\nВ лучшем случае я смогу протянуть в спасательном модуле 400 суток. Что же делать – разыскать в безбрежных красных песках поврежденную бурей антенну, попытаться починить ее, чтобы связаться с базовым кораблем и напомнить о своем существовании? Или дожидаться прибытия следующей экспедиции, которая прилетит только через ЧЕТЫРЕ ГОДА?\nГде брать еду? Воду? Воздух?\nКак не сойти с ума от одиночества?\nРобинзону было легче… у него хотя бы был Пятница.",
+        "paper_pages": 377,
+        "quotes_count": 2730,
+        "readers_count": 20351,
+        "impressions_count": 648,
+        "bookshelves_count": 551,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "premium",
+            "title": "Премиум"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "GDcQfgvh",
+      "state": "exists",
+      "content": "Constant width",
+      "comment": null,
+      "created_at": 1466162961,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[10]/code[1]/text()[1]",
+      "finish_node_xpath": "p[10]/code[1]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 14,
+      "cfi": "/6/10!/,/2/4/26/2/1:0,/2/4/26/2/1:14",
+      "changes_count": 6578,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "dQxy9I9N",
+      "state": "exists",
+      "content": "Constant width bold",
+      "comment": null,
+      "created_at": 1466162971,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[12]/strong[1]/code[1]/text()[1]",
+      "finish_node_xpath": "p[12]/strong[1]/code[1]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 20,
+      "cfi": "/6/10!/,/2/4/30/2/2/1:0,/2/4/30/2/2/1:20",
+      "changes_count": 6579,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "FLaecGTy",
+      "state": "exists",
+      "content": "Constant width italic",
+      "comment": null,
+      "created_at": 1466162980,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[14]/em[1]/code[1]/text()[1]",
+      "finish_node_xpath": "p[14]/em[1]/code[1]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 22,
+      "cfi": "/6/10!/,/2/4/34/2/2/1:0,/2/4/34/2/2/1:22",
+      "changes_count": 6580,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "VleDqItt",
+      "state": "exists",
+      "content": "http://my.safaribooksonline.com.",
+      "comment": null,
+      "created_at": 1466162998,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "p[3]/a[1]/text()[1]",
+      "finish_node_xpath": "p[3]/text()[2]",
+      "start_node_offset": 1,
+      "finish_node_offset": 1,
+      "cfi": "/6/14!/,/2/4/10/2/1:0,/2/4/10/3:1",
+      "changes_count": 6581,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "KDdcN64D",
+      "state": "exists",
+      "content": "New workflows haven’t yet emerged to facilitate the transition. Mass retail ebook production and consumption took many people by surprise, the author included, after earlier failed attempts. Tools and production systems are not optimized for high-quality multi-stream output production, making internal conversion of print to digital costly.\nAccessible ebooks can become inaccessible after ingestion into a distribution channel, whether via reformatting to less feature-rich formats or for feature-reduced reading.\nThe inaccessibility of online bookstores themselves can hinder the ability to obtain ebooks.\nLibraries for the blind and other republishers don’t have the resources to completely re-engineer the print-only books still being produced. And this model is a failing one for the long-term ideal of full content accessibility.",
+      "comment": "Маркированный список",
+      "created_at": 1466163026,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "ul[1]/li[1]/p[1]/text()[1]",
+      "finish_node_xpath": "ul[1]/li[4]/p[1]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 230,
+      "cfi": "/6/20!/,/2/4/30/2/2/1:0,/2/4/30/8/2/1:230",
+      "changes_count": 6582,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "RhnCxPrB",
+      "state": "exists",
+      "content": "foreword\nprologue\npreface\npart\nchapter\nepilogue\nbibliography\nglossary\nindex",
+      "comment": "Маркерованный список 2",
+      "created_at": 1466163131,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "ul[1]/li[1]/p[1]/text()[1]",
+      "finish_node_xpath": "ul[1]/li[9]/p[1]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 5,
+      "cfi": "/6/24!/,/2/4/150/2/2/1:0,/2/4/150/18/2/1:5",
+      "changes_count": 6583,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "cAEUTdJL",
+      "state": "exists",
+      "content": "hr.transition {\n    background: url('img/fleuron.gif') no-repeat 50% 50%;\n    height: 1em;\n    margin: 0.5em 0em;\n}",
+      "comment": null,
+      "created_at": 1466163154,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 1,
+      "style": "highlight",
+      "start_node_xpath": "pre[13]/text()[1]",
+      "finish_node_xpath": "pre[13]/text()[1]",
+      "start_node_offset": 1,
+      "finish_node_offset": 116,
+      "cfi": "/6/24!/,/2/4/196/1:0,/2/4/196/1:116",
+      "changes_count": 6584,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "Opi3GdNk",
+        "title": "Accessible EPUB 3",
+        "authors": "Matt Garrish",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-ipad.jpg?1457019832",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/5d/af/CPzVfBA0-thumb.jpg?1457019832",
+          "ratio": 0.76,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF/vv06OXe0c7HvLmy5OHay8jB1tPM+/jx0XaIsVZouF1v3oOV/8LU/7HD/67A/7LE////2D6dyAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDAyOjI4OjM2KzAzOjAw6nVohAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQwMjoyODozNiswMzowMJso0DgAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMngyLDF4MSwxeDFJ+qa0AAAAAElFTkSuQmCC"
+        },
+        "language": "en",
+        "annotation": "<p>With the introduction of EPUB 3, publishers now have the means to create a single rich data source for audiences of all reading abilities. Through practical tips and examples, <i>Accessible EPUB 3</i> takes you inside the EPUB 3 format and explores how you can enrich and enhance content for all readers. Author Matt Garrish demystifies the process of making content easier to access, demonstrating how accessible practices are intertwined with standard content best practices.</p>",
+        "paper_pages": 133,
+        "quotes_count": 7,
+        "readers_count": 9,
+        "impressions_count": 0,
+        "bookshelves_count": 2,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "Sv1nhcYr",
+      "state": "exists",
+      "content": "away",
+      "comment": null,
+      "created_at": 1466677327,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[118]/text()[1]",
+      "finish_node_xpath": "p[118]/text()[1]",
+      "start_node_offset": 68,
+      "finish_node_offset": 71,
+      "cfi": "/6/48!/,/2/4/238/1:67,/2/4/238/1:71",
+      "changes_count": 6585,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "OGLcxYCB",
+        "title": "The Texan Scouts / A Story of the Alamo and Goliad",
+        "authors": "Joseph Altsheler",
+        "cover": {
+          "large": null,
+          "small": null,
+          "ratio": null,
+          "placeholder": null
+        },
+        "language": "en",
+        "annotation": null,
+        "paper_pages": 369,
+        "quotes_count": 14,
+        "readers_count": 5,
+        "impressions_count": 0,
+        "bookshelves_count": 0,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Личное"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "wrmbOe81",
+      "state": "exists",
+      "content": "этот вечер Ростовы поехали в оперу, на которую Марья Дмитриевна достала билет.\nНаташе не хотелось ехать, но нельзя было отказаться от ласковости Марьи Дмитриевны, исключительно для нее предназначенной. Когда она, одетая, вышла в залу, дожидаясь отца и поглядевшись в большое зеркало, увидала, что она хороша, очень хороша, ей еще более стало грустно; но грустно сладостно и любовно.\n«Боже мой, ежели бы он был тут, тогда бы я не так как прежде, с какою-то глупою робостью перед чем-то, а по новому, просто, обняла бы его, прижалась бы к нему, заставила бы его смотреть на меня теми искательными, любопытными глазами, которыми он так часто смотрел на меня и потом заставила бы его смеяться, как он смеялся тогда, и глаза его — как я вижу эти глаза! — думала Наташа. — И чтò мне за дело до его отца и сестры: я люблю его одного, его, его, с этим лицом и глазами, с его улыбкой, мужскою и вместе детскою... Нет, лучше не думать о нем, не думать, забыть, совсем забыть на это время. Я не вынесу этого ожидания, я сейчас зарыдаю», — и она отошла от зеркала, делая над собой усилия, чтобы не заплакать. — «И как может Соня так ровно, так спокойно любить Николиньку, и ждать так долго и терпеливо»! подумала она, глядя на входившую, тоже одетую, с веером в руках Соню. «Нет, она совсем другая. Я не могу»!\nНаташа чувствовала себя в эту минуту такою размягченною и разнеженною, что ей мало было любить и знать, что она любима: ей нужно теперь, сейчас нужно было обнять любимого человека и говорить и слышать от него слова любви, которыми было полно ее сердце. Пока она ехала в карете, сидя рядом с отцом, и задумчиво глядела на мелькавшие в мерзлом окне огни фонарей, она чувствовала себя еще влюбленнее и грустнее и забыла с кем и куда она едет. Попав в вереницу карет, медленно визжа колесами по снегу карета Ростовых подъехала к театру. Поспешно выскочили Наташа и Соня, подбирая платья; вышел граф, поддерживаемый лакеями, и между входившими дамами и мужчинами и продающими афиши, все трое пошли в коридор бенуара. Из-за притворенных дверей уже слышались звуки музыки.\n— Nathalie, vos cheveux,535 — прошептала Соня. Капельдинер учтиво и поспешно проскользнул перед дамами и отворил дверь ложи. Музыка ярче стала слышна в дверь, блеснули освещенные ряды лож с обнаженными плечами и руками дам, и шумящий и блестящий мундирами партер. Дама, входившая в соседний бенуар, оглянула Наташу женским, завистливым взглядом. Занавесь еще не поднималась и играли увертюру. Наташа, оправляя платье, прошла вместе с Соней и села, оглядывая освещенные ряды противуположных лож. Давно не испытанное ею ощущение того, что сотни глаз смотрят на ее обнаженные руки и шею, вдруг и приятно и неприятно охватило ее, вызывая целый рой соответствующих этому ощущению воспоминаний, желаний и волнений.\nДве замечательно хорошенькие девушки, Наташа и Соня, с графом Ильей Андреичем, которого давно не видно было в Москве, обратили на себя общее внимание. Кроме того все знали смутно про сговор Наташи с князем Андреем, знали, что с тех пор Ростовы жили в деревне, и с любопытством смотрели на невесту одного из лучших женихов России.\nНаташа похорошела в деревне, как все ей говорили, а в этот вечер, благодаря своему взволнованному состоянию, была особенно хороша. Она поражала полнотой жизни и красоты, в соединении с равнодушием ко всему окружающему. Ее черные глаза смотрели на толпу, никого не отыскивая, а тонкая, обнаженная выше локтя рука, облокоченная на бархатную рампу, очевидно бессознательно, в такт увертюры, сжималась и разжималась, комкая афишу.\n— Посмотри, вот Аленина, — говорила Соня, — с матерью кажется!\n— Батюшки! Михаил Кирилыч-то еще потолстел, — говорил старый граф.\n— Смотрите! Анна Михайловна наша в токе какой!\n— Карагины, Жюли и Борис с ними. Сейчас видно жениха с невестой.\n— Друбецкой сделал предложение! Как же, нынче узнал, — сказал Шиншин, входивший в ложу Ростовых.\nНаташа посмотрела по тому направлению, по которому смотрел отец, и увидала Жюли, которая с жемчугами на толстой красной шее (Наташа знала, обсыпанной пудрой) сидела с счастливым видом, рядом с матерью.\nПозади их с улыбкой, наклоненная ухом ко рту Жюли, ",
+      "comment": null,
+      "created_at": 1467288614,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[1]/text()[1]",
+      "finish_node_xpath": "p[14]/text()[1]",
+      "start_node_offset": 3,
+      "finish_node_offset": 50,
+      "cfi": "/6/316!/,/2/4/4/1:2,/2/4/30/1:50",
+      "changes_count": 6586,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "TXGRits7",
+        "title": "Война и мир",
+        "authors": "Лев Толстой",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-ipad.jpg?1496497828",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/7a/d0/Sazkddpm-thumb.jpg?1496497828",
+          "ratio": 0.665,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRF8vDj7ene9/Hl7e3j7erh3tvS7Ore8/Dp+/nt9vbq6+nc2NXM4ePV2tvN5uTXu72y////Z+H67wAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTAzVDE2OjUwOjI4KzAzOjAwhHaqcwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0wM1QxNjo1MDoyOCswMzowMPUrEs8AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Роман-эпопея, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах.",
+        "paper_pages": 1870,
+        "quotes_count": 36287,
+        "readers_count": 57055,
+        "impressions_count": 211,
+        "bookshelves_count": 1261,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "powsUzdQ",
+      "state": "exists",
+      "content": "воспоминания могут запоминаться (и это всем известно) даже и из более раннего возраста, даже с двухлетнего, но лишь выступая всю жизнь как бы светлыми",
+      "comment": null,
+      "created_at": 1468420581,
+      "likes_count": 0,
+      "liked": false,
+      "comments_count": 0,
+      "color": 0,
+      "style": "highlight",
+      "start_node_xpath": "p[24]/text()[1]",
+      "finish_node_xpath": "p[24]/text()[1]",
+      "start_node_offset": 1042,
+      "finish_node_offset": 1191,
+      "cfi": "/6/4!/,/2/4/48/1:1041,/2/4/48/1:1191",
+      "changes_count": 6587,
+      "all_quotes_count": 0,
+      "creator": {
+        "id": 4726030,
+        "name": "айоу",
+        "login": "testreader",
+        "avatar": {
+          "large": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile_big.jpg",
+          "small": "https://assets1.bmstatic.com/assets/users-userpics-fingerprint/3d/71/f362c1a8c7dce5be02e0afc7773af67c-profile.jpg"
+        },
+        "gender": "f"
+      },
+      "book": {
+        "uuid": "RzwZ8q24",
+        "title": "Братья Карамазовы",
+        "authors": "Федор Достоевский",
+        "cover": {
+          "large": "https://assets1.bmstatic.com/assets/documents-covers/36/9e/JnjZ7GZ2-ipad.jpg?1497337464",
+          "small": "https://assets1.bmstatic.com/assets/documents-covers/36/9e/JnjZ7GZ2-thumb.jpg?1497337464",
+          "ratio": 0.615,
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFPSkeUlEQaGhMREgNaVk1wMB6WFZHYmUwjII709ONKCMqWlsxzcZrp6VqLyVKZ2VM////FbUJkQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA2LTEzVDEwOjA0OjI0KzAzOjAwHCnYoQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNi0xM1QxMDowNDoyNCswMzowMG10YB0AAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC"
+        },
+        "language": "ru",
+        "annotation": "Самый сложный, самый многоуровневый и неоднозначный из романов Достоевского, который критики считали то «интеллектуальным детективом», то «ранним постмодернизмом», то – «лучшим из произведений о загадочной русской душе».\r\nРоман, легший в основу десятков экранизаций – от предельно точных до самых отвлеченных, – но не утративший своей духовной силы…",
+        "paper_pages": 1139,
+        "quotes_count": 15695,
+        "readers_count": 49517,
+        "impressions_count": 176,
+        "bookshelves_count": 1105,
+        "in_wishlist": false,
+        "in_library": true,
+        "can_be_read": true,
+        "labels": [
+          {
+            "kind": "free",
+            "title": "Бесплатно"
+          }
+        ]
+      }
+    }
+  ]
+}
